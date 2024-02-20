@@ -1,0 +1,1310 @@
+,Survived,Pclass,Title,SurName,Sex,family_size,family_type,Age,Ticket,Fare,indivitual_fare($),deck,Embarked
+0,0.0,3,Mr,Braund,male,2,small,22.0,A/5 21171,7.25,3.625,M,S
+1,1.0,1,Miss,Cumings,female,2,small,38.0,PC 17599,71.2833,35.64165,C,C
+2,1.0,3,Miss,Heikkinen,female,1,alone,26.0,STON/O2. 3101282,7.925,7.925,M,S
+3,1.0,1,Miss,Futrelle,female,2,small,35.0,113803,53.1,26.55,C,S
+4,0.0,3,Mr,Allen,male,1,alone,35.0,373450,8.05,8.05,M,S
+5,0.0,3,Mr,Moran,male,1,alone,24.81636726546906,330877,8.4583,8.4583,M,Q
+6,0.0,1,Mr,McCarthy,male,1,alone,54.0,17463,51.8625,51.8625,E,S
+7,0.0,3,Mr,Palsson,male,5,large,2.0,349909,21.075,4.215,M,S
+8,1.0,3,Miss,Johnson,female,3,small,27.0,347742,11.1333,3.7111,M,S
+9,1.0,2,Miss,Nasser,female,2,small,14.0,237736,30.0708,15.0354,M,C
+10,1.0,3,Miss,Sandstrom,female,3,small,4.0,PP 9549,16.7,5.566666666666666,G,S
+11,1.0,1,Miss,Bonnell,female,1,alone,58.0,113783,26.55,26.55,C,S
+12,0.0,3,Mr,Saundercock,male,1,alone,20.0,A/5. 2151,8.05,8.05,M,S
+13,0.0,3,Mr,Andersson,male,7,large,39.0,347082,31.275,4.4678571428571425,M,S
+14,0.0,3,Miss,Vestrom,female,1,alone,14.0,350406,7.8542,7.8542,M,S
+15,1.0,2,Miss,Hewlett,female,1,alone,55.0,248706,16.0,16.0,M,S
+16,0.0,3,Mr,Rice,male,6,large,2.0,382652,29.125,4.854166666666667,M,Q
+17,1.0,2,Mr,Williams,male,1,alone,29.506704980842912,244373,13.0,13.0,M,S
+18,0.0,3,Miss,Vander Planke,female,2,small,31.0,345763,18.0,9.0,M,S
+19,1.0,3,Miss,Masselmani,female,1,alone,24.81636726546906,2649,7.225,7.225,M,C
+20,0.0,2,Mr,Fynney,male,1,alone,35.0,239865,26.0,26.0,M,S
+21,1.0,2,Mr,Beesley,male,1,alone,34.0,248698,13.0,13.0,D,S
+22,1.0,3,Miss,McGowan,female,1,alone,15.0,330923,8.0292,8.0292,M,Q
+23,1.0,1,Mr,Sloper,male,1,alone,28.0,113788,35.5,35.5,A,S
+24,0.0,3,Miss,Palsson,female,5,large,8.0,349909,21.075,4.215,M,S
+25,1.0,3,Miss,Asplund,female,7,large,38.0,347077,31.3875,4.483928571428572,M,S
+26,0.0,3,Mr,Emir,male,1,alone,24.81636726546906,2631,7.225,7.225,M,C
+27,0.0,1,Mr,Fortune,male,6,large,19.0,19950,263.0,43.833333333333336,C,S
+28,1.0,3,Miss,O'Dwyer,female,1,alone,24.81636726546906,330959,7.8792,7.8792,M,Q
+29,0.0,3,Mr,Todoroff,male,1,alone,24.81636726546906,349216,7.8958,7.8958,M,S
+30,0.0,1,Mr,Uruchurtu,male,1,alone,40.0,PC 17601,27.7208,27.7208,M,C
+31,1.0,1,Miss,Spencer,female,2,small,39.15992957746479,PC 17569,146.5208,73.2604,B,C
+32,1.0,3,Miss,Glynn,female,1,alone,24.81636726546906,335677,7.75,7.75,M,Q
+33,0.0,2,Mr,Wheadon,male,1,alone,66.0,C.A. 24579,10.5,10.5,M,S
+34,0.0,1,Mr,Meyer,male,2,small,28.0,PC 17604,82.1708,41.0854,M,C
+35,0.0,1,Mr,Holverson,male,2,small,42.0,113789,52.0,26.0,M,S
+36,1.0,3,Mr,Mamee,male,1,alone,24.81636726546906,2677,7.2292,7.2292,M,C
+37,0.0,3,Mr,Cann,male,1,alone,21.0,A./5. 2152,8.05,8.05,M,S
+38,0.0,3,Miss,Vander Planke,female,3,small,18.0,345764,18.0,6.0,M,S
+39,1.0,3,Miss,Nicola-Yarred,female,2,small,14.0,2651,11.2417,5.62085,M,C
+40,0.0,3,Miss,Ahlin,female,2,small,40.0,7546,9.475,4.7375,M,S
+41,0.0,2,Miss,Turpin,female,2,small,27.0,11668,21.0,10.5,M,S
+42,0.0,3,Mr,Kraeff,male,1,alone,24.81636726546906,349253,7.8958,7.8958,M,C
+43,1.0,2,Miss,Laroche,female,4,small,3.0,SC/Paris 2123,41.5792,10.3948,M,C
+44,1.0,3,Miss,Devaney,female,1,alone,19.0,330958,7.8792,7.8792,M,Q
+45,0.0,3,Mr,Rogers,male,1,alone,24.81636726546906,S.C./A.4. 23567,8.05,8.05,M,S
+46,0.0,3,Mr,Lennon,male,2,small,24.81636726546906,370371,15.5,7.75,M,Q
+47,1.0,3,Miss,O'Driscoll,female,1,alone,24.81636726546906,14311,7.75,7.75,M,Q
+48,0.0,3,Mr,Samaan,male,3,small,24.81636726546906,2662,21.6792,7.226400000000001,M,C
+49,0.0,3,Miss,Arnold-Franchi,female,2,small,18.0,349237,17.8,8.9,M,S
+50,0.0,3,Mr,Panula,male,6,large,7.0,3101295,39.6875,6.614583333333333,M,S
+51,0.0,3,Mr,Nosworthy,male,1,alone,21.0,A/4. 39886,7.8,7.8,M,S
+52,1.0,1,Miss,Harper,female,2,small,49.0,PC 17572,76.7292,38.3646,D,C
+53,1.0,2,Miss,Faunthorpe,female,2,small,29.0,2926,26.0,13.0,M,S
+54,0.0,1,Mr,Ostby,male,2,small,65.0,113509,61.9792,30.9896,B,C
+55,1.0,1,Mr,Woolner,male,1,alone,39.15992957746479,19947,35.5,35.5,C,S
+56,1.0,2,Miss,Rugg,female,1,alone,21.0,C.A. 31026,10.5,10.5,M,S
+57,0.0,3,Mr,Novel,male,1,alone,28.5,2697,7.2292,7.2292,M,C
+58,1.0,2,Miss,West,female,4,small,5.0,C.A. 34651,27.75,6.9375,M,S
+59,0.0,3,Mr,Goodwin,male,8,large,11.0,CA 2144,46.9,5.8625,M,S
+60,0.0,3,Mr,Sirayanian,male,1,alone,22.0,2669,7.2292,7.2292,M,C
+61,1.0,1,Miss,Icard,female,1,alone,38.0,113572,80.0,80.0,B,C
+62,0.0,1,Mr,Harris,male,2,small,45.0,36973,83.475,41.7375,C,S
+63,0.0,3,Mr,Skoog,male,6,large,4.0,347088,27.9,4.6499999999999995,M,S
+64,0.0,1,Mr,Stewart,male,1,alone,39.15992957746479,PC 17605,27.7208,27.7208,M,C
+65,1.0,3,Mr,Moubarek,male,3,small,24.81636726546906,2661,15.2458,5.081933333333333,M,C
+66,1.0,2,Miss,Nye,female,1,alone,29.0,C.A. 29395,10.5,10.5,F,S
+67,0.0,3,Mr,Crease,male,1,alone,19.0,S.P. 3464,8.1583,8.1583,M,S
+68,1.0,3,Miss,Andersson,female,7,large,17.0,3101281,7.925,1.1321428571428571,M,S
+69,0.0,3,Mr,Kink,male,3,small,26.0,315151,8.6625,2.8874999999999997,M,S
+70,0.0,2,Mr,Jenkin,male,1,alone,32.0,C.A. 33111,10.5,10.5,M,S
+71,0.0,3,Miss,Goodwin,female,8,large,16.0,CA 2144,46.9,5.8625,M,S
+72,0.0,2,Mr,Hood,male,1,alone,21.0,S.O.C. 14879,73.5,73.5,M,S
+73,0.0,3,Mr,Chronopoulos,male,2,small,26.0,2680,14.4542,7.2271,M,C
+74,1.0,3,Mr,Bing,male,1,alone,32.0,1601,56.4958,56.4958,M,S
+75,0.0,3,Mr,Moen,male,1,alone,25.0,348123,7.65,7.65,F,S
+76,0.0,3,Mr,Staneff,male,1,alone,24.81636726546906,349208,7.8958,7.8958,M,S
+77,0.0,3,Mr,Moutal,male,1,alone,24.81636726546906,374746,8.05,8.05,M,S
+78,1.0,2,Mr,Caldwell,male,3,small,0.83,248738,29.0,9.666666666666666,M,S
+79,1.0,3,Miss,Dowdell,female,1,alone,30.0,364516,12.475,12.475,M,S
+80,0.0,3,Mr,Waelens,male,1,alone,22.0,345767,9.0,9.0,M,S
+81,1.0,3,Mr,Sheerlinck,male,1,alone,29.0,345779,9.5,9.5,M,S
+82,1.0,3,Miss,McDermott,female,1,alone,24.81636726546906,330932,7.7875,7.7875,M,Q
+83,0.0,1,Mr,Carrau,male,1,alone,28.0,113059,47.1,47.1,M,S
+84,1.0,2,Miss,Ilett,female,1,alone,17.0,SO/C 14885,10.5,10.5,M,S
+85,1.0,3,Miss,Backstrom,female,4,small,33.0,3101278,15.85,3.9625,M,S
+86,0.0,3,Mr,Ford,male,5,large,16.0,W./C. 6608,34.375,6.875,M,S
+87,0.0,3,Mr,Slocovski,male,1,alone,24.81636726546906,SOTON/OQ 392086,8.05,8.05,M,S
+88,1.0,1,Miss,Fortune,female,6,large,23.0,19950,263.0,43.833333333333336,C,S
+89,0.0,3,Mr,Celotti,male,1,alone,24.0,343275,8.05,8.05,M,S
+90,0.0,3,Mr,Christmann,male,1,alone,29.0,343276,8.05,8.05,M,S
+91,0.0,3,Mr,Andreasson,male,1,alone,20.0,347466,7.8542,7.8542,M,S
+92,0.0,1,Mr,Chaffee,male,2,small,46.0,W.E.P. 5734,61.175,30.5875,E,S
+93,0.0,3,Mr,Dean,male,4,small,26.0,C.A. 2315,20.575,5.14375,M,S
+94,0.0,3,Mr,Coxon,male,1,alone,59.0,364500,7.25,7.25,M,S
+95,0.0,3,Mr,Shorney,male,1,alone,24.81636726546906,374910,8.05,8.05,M,S
+96,0.0,1,Mr,Goldschmidt,male,1,alone,71.0,PC 17754,34.6542,34.6542,A,C
+97,1.0,1,Mr,Greenfield,male,2,small,23.0,PC 17759,63.3583,31.67915,D,C
+98,1.0,2,Miss,Doling,female,2,small,34.0,231919,23.0,11.5,M,S
+99,0.0,2,Mr,Kantor,male,2,small,34.0,244367,26.0,13.0,M,S
+100,0.0,3,Miss,Petranec,female,1,alone,28.0,349245,7.8958,7.8958,M,S
+101,0.0,3,Mr,Petroff,male,1,alone,24.81636726546906,349215,7.8958,7.8958,M,S
+102,0.0,1,Mr,White,male,2,small,21.0,35281,77.2875,38.64375,D,S
+103,0.0,3,Mr,Johansson,male,1,alone,33.0,7540,8.6542,8.6542,M,S
+104,0.0,3,Mr,Gustafsson,male,3,small,37.0,3101276,7.925,2.6416666666666666,M,S
+105,0.0,3,Mr,Mionoff,male,1,alone,28.0,349207,7.8958,7.8958,M,S
+106,1.0,3,Miss,Salkjelsvik,female,1,alone,21.0,343120,7.65,7.65,M,S
+107,1.0,3,Mr,Moss,male,1,alone,24.81636726546906,312991,7.775,7.775,M,S
+108,0.0,3,Mr,Rekic,male,1,alone,38.0,349249,7.8958,7.8958,M,S
+109,1.0,3,Miss,Moran,female,2,small,24.81636726546906,371110,24.15,12.075,M,Q
+110,0.0,1,Mr,Porter,male,1,alone,47.0,110465,52.0,52.0,C,S
+111,0.0,3,Miss,Zabour,female,2,small,14.5,2665,14.4542,7.2271,M,C
+112,0.0,3,Mr,Barton,male,1,alone,22.0,324669,8.05,8.05,M,S
+113,0.0,3,Miss,Jussila,female,2,small,20.0,4136,9.825,4.9125,M,S
+114,0.0,3,Miss,Attalah,female,1,alone,17.0,2627,14.4583,14.4583,M,C
+115,0.0,3,Mr,Pekoniemi,male,1,alone,21.0,STON/O 2. 3101294,7.925,7.925,M,S
+116,0.0,3,Mr,Connors,male,1,alone,70.5,370369,7.75,7.75,M,Q
+117,0.0,2,Mr,Turpin,male,2,small,29.0,11668,21.0,10.5,M,S
+118,0.0,1,Mr,Baxter,male,2,small,24.0,PC 17558,247.5208,123.7604,B,C
+119,0.0,3,Miss,Andersson,female,7,large,2.0,347082,31.275,4.4678571428571425,M,S
+120,0.0,2,Mr,Hickman,male,3,small,21.0,S.O.C. 14879,73.5,24.5,M,S
+121,0.0,3,Mr,Moore,male,1,alone,24.81636726546906,A4. 54510,8.05,8.05,M,S
+122,0.0,2,Mr,Nasser,male,2,small,32.5,237736,30.0708,15.0354,M,C
+123,1.0,2,Miss,Webber,female,1,alone,32.5,27267,13.0,13.0,E,S
+124,0.0,1,Mr,White,male,2,small,54.0,35281,77.2875,38.64375,D,S
+125,1.0,3,Mr,Nicola-Yarred,male,2,small,12.0,2651,11.2417,5.62085,M,C
+126,0.0,3,Mr,McMahon,male,1,alone,24.81636726546906,370372,7.75,7.75,M,Q
+127,1.0,3,Mr,Madsen,male,1,alone,24.0,C 17369,7.1417,7.1417,M,S
+128,1.0,3,Miss,Peter,female,3,small,24.81636726546906,2668,22.3583,7.452766666666666,F,C
+129,0.0,3,Mr,Ekstrom,male,1,alone,45.0,347061,6.975,6.975,M,S
+130,0.0,3,Mr,Drazenoic,male,1,alone,33.0,349241,7.8958,7.8958,M,C
+131,0.0,3,Mr,Coelho,male,1,alone,20.0,SOTON/O.Q. 3101307,7.05,7.05,M,S
+132,0.0,3,Miss,Robins,female,2,small,47.0,A/5. 3337,14.5,7.25,M,S
+133,1.0,2,Miss,Weisz,female,2,small,29.0,228414,26.0,13.0,M,S
+134,0.0,2,Mr,Sobey,male,1,alone,25.0,C.A. 29178,13.0,13.0,M,S
+135,0.0,2,Mr,Richard,male,1,alone,23.0,SC/PARIS 2133,15.0458,15.0458,M,C
+136,1.0,1,Miss,Newsom,female,3,small,19.0,11752,26.2833,8.7611,D,S
+137,0.0,1,Mr,Futrelle,male,2,small,37.0,113803,53.1,26.55,C,S
+138,0.0,3,Mr,Osen,male,1,alone,16.0,7534,9.2167,9.2167,M,S
+139,0.0,1,Mr,Giglio,male,1,alone,24.0,PC 17593,79.2,79.2,B,C
+140,0.0,3,Miss,Boulos,female,3,small,24.81636726546906,2678,15.2458,5.081933333333333,M,C
+141,1.0,3,Miss,Nysten,female,1,alone,22.0,347081,7.75,7.75,M,S
+142,1.0,3,Miss,Hakkarainen,female,2,small,24.0,STON/O2. 3101279,15.85,7.925,M,S
+143,0.0,3,Mr,Burke,male,1,alone,19.0,365222,6.75,6.75,M,Q
+144,0.0,2,Mr,Andrew,male,1,alone,18.0,231945,11.5,11.5,M,S
+145,0.0,2,Mr,Nicholls,male,3,small,19.0,C.A. 33112,36.75,12.25,M,S
+146,1.0,3,Mr,Andersson,male,1,alone,27.0,350043,7.7958,7.7958,M,S
+147,0.0,3,Miss,Ford,female,5,large,9.0,W./C. 6608,34.375,6.875,M,S
+148,0.0,2,Mr,Navratil,male,3,small,36.5,230080,26.0,8.666666666666666,F,S
+149,0.0,2,Mr,Byles,male,1,alone,42.0,244310,13.0,13.0,M,S
+150,0.0,2,Mr,Bateman,male,1,alone,51.0,S.O.P. 1166,12.525,12.525,M,S
+151,1.0,1,Miss,Pears,female,2,small,22.0,113776,66.6,33.3,C,S
+152,0.0,3,Mr,Meo,male,1,alone,55.5,A.5. 11206,8.05,8.05,M,S
+153,0.0,3,Mr,van Billiard,male,3,small,40.5,A/5. 851,14.5,4.833333333333333,M,S
+154,0.0,3,Mr,Olsen,male,1,alone,24.81636726546906,Fa 265302,7.3125,7.3125,M,S
+155,0.0,1,Mr,Williams,male,2,small,51.0,PC 17597,61.3792,30.6896,M,C
+156,1.0,3,Miss,Gilnagh,female,1,alone,16.0,35851,7.7333,7.7333,M,Q
+157,0.0,3,Mr,Corn,male,1,alone,30.0,SOTON/OQ 392090,8.05,8.05,M,S
+158,0.0,3,Mr,Smiljanic,male,1,alone,24.81636726546906,315037,8.6625,8.6625,M,S
+159,0.0,3,Mr,Sage,male,11,large,24.81636726546906,CA. 2343,69.55,6.322727272727272,M,S
+160,0.0,3,Mr,Cribb,male,2,small,44.0,371362,16.1,8.05,M,S
+161,1.0,2,Miss,Watt,female,1,alone,40.0,C.A. 33595,15.75,15.75,M,S
+162,0.0,3,Mr,Bengtsson,male,1,alone,26.0,347068,7.775,7.775,M,S
+163,0.0,3,Mr,Calic,male,1,alone,17.0,315093,8.6625,8.6625,M,S
+164,0.0,3,Mr,Panula,male,6,large,1.0,3101295,39.6875,6.614583333333333,M,S
+165,1.0,3,Mr,Goldsmith,male,3,small,9.0,363291,20.525,6.841666666666666,M,S
+166,1.0,1,Miss,Chibnall,female,2,small,39.15992957746479,113505,55.0,27.5,E,S
+167,0.0,3,Miss,Skoog,female,6,large,45.0,347088,27.9,4.6499999999999995,M,S
+168,0.0,1,Mr,Baumann,male,1,alone,39.15992957746479,PC 17318,25.925,25.925,M,S
+169,0.0,3,Mr,Ling,male,1,alone,28.0,1601,56.4958,56.4958,M,S
+170,0.0,1,Mr,Van der hoef,male,1,alone,61.0,111240,33.5,33.5,B,S
+171,0.0,3,Mr,Rice,male,6,large,4.0,382652,29.125,4.854166666666667,M,Q
+172,1.0,3,Miss,Johnson,female,3,small,1.0,347742,11.1333,3.7111,M,S
+173,0.0,3,Mr,Sivola,male,1,alone,21.0,STON/O 2. 3101280,7.925,7.925,M,S
+174,0.0,1,Mr,Smith,male,1,alone,56.0,17764,30.6958,30.6958,A,C
+175,0.0,3,Mr,Klasen,male,3,small,18.0,350404,7.8542,2.6180666666666665,M,S
+176,0.0,3,Mr,Lefebre,male,5,large,24.81636726546906,4133,25.4667,5.0933399999999995,M,S
+177,0.0,1,Miss,Isham,female,1,alone,50.0,PC 17595,28.7125,28.7125,C,C
+178,0.0,2,Mr,Hale,male,1,alone,30.0,250653,13.0,13.0,M,S
+179,0.0,3,Mr,Leonard,male,1,alone,36.0,LINE,0.0,0.0,M,S
+180,0.0,3,Miss,Sage,female,11,large,24.81636726546906,CA. 2343,69.55,6.322727272727272,M,S
+181,0.0,2,Mr,Pernot,male,1,alone,29.506704980842912,SC/PARIS 2131,15.05,15.05,M,C
+182,0.0,3,Mr,Asplund,male,7,large,9.0,347077,31.3875,4.483928571428572,M,S
+183,1.0,2,Mr,Becker,male,4,small,1.0,230136,39.0,9.75,F,S
+184,1.0,3,Miss,Kink-Heilmann,female,3,small,4.0,315153,22.025,7.341666666666666,M,S
+185,0.0,1,Mr,Rood,male,1,alone,39.15992957746479,113767,50.0,50.0,A,S
+186,1.0,3,Miss,O'Brien,female,2,small,24.81636726546906,370365,15.5,7.75,M,Q
+187,1.0,1,Mr,Romaine,male,1,alone,45.0,111428,26.55,26.55,M,S
+188,0.0,3,Mr,Bourke,male,3,small,40.0,364849,15.5,5.166666666666667,M,Q
+189,0.0,3,Mr,Turcin,male,1,alone,36.0,349247,7.8958,7.8958,M,S
+190,1.0,2,Miss,Pinsky,female,1,alone,32.0,234604,13.0,13.0,M,S
+191,0.0,2,Mr,Carbines,male,1,alone,19.0,28424,13.0,13.0,M,S
+192,1.0,3,Miss,Andersen-Jensen,female,2,small,19.0,350046,7.8542,3.9271,M,S
+193,1.0,2,Mr,Navratil,male,3,small,3.0,230080,26.0,8.666666666666666,F,S
+194,1.0,1,Miss,Brown,female,1,alone,44.0,PC 17610,27.7208,27.7208,B,C
+195,1.0,1,Miss,Lurette,female,1,alone,58.0,PC 17569,146.5208,146.5208,B,C
+196,0.0,3,Mr,Mernagh,male,1,alone,24.81636726546906,368703,7.75,7.75,M,Q
+197,0.0,3,Mr,Olsen,male,2,small,42.0,4579,8.4042,4.2021,M,S
+198,1.0,3,Miss,Madigan,female,1,alone,24.81636726546906,370370,7.75,7.75,M,Q
+199,0.0,2,Miss,Yrois,female,1,alone,24.0,248747,13.0,13.0,M,S
+200,0.0,3,Mr,Vande Walle,male,1,alone,28.0,345770,9.5,9.5,M,S
+201,0.0,3,Mr,Sage,male,11,large,24.81636726546906,CA. 2343,69.55,6.322727272727272,M,S
+202,0.0,3,Mr,Johanson,male,1,alone,34.0,3101264,6.4958,6.4958,M,S
+203,0.0,3,Mr,Youseff,male,1,alone,45.5,2628,7.225,7.225,M,C
+204,1.0,3,Mr,Cohen,male,1,alone,18.0,A/5 3540,8.05,8.05,M,S
+205,0.0,3,Miss,Strom,female,2,small,2.0,347054,10.4625,5.23125,G,S
+206,0.0,3,Mr,Backstrom,male,2,small,32.0,3101278,15.85,7.925,M,S
+207,1.0,3,Mr,Albimona,male,1,alone,26.0,2699,18.7875,18.7875,M,C
+208,1.0,3,Miss,Carr,female,1,alone,16.0,367231,7.75,7.75,M,Q
+209,1.0,1,Mr,Blank,male,1,alone,40.0,112277,31.0,31.0,A,C
+210,0.0,3,Mr,Ali,male,1,alone,24.0,SOTON/O.Q. 3101311,7.05,7.05,M,S
+211,1.0,2,Miss,Cameron,female,1,alone,35.0,F.C.C. 13528,21.0,21.0,M,S
+212,0.0,3,Mr,Perkin,male,1,alone,22.0,A/5 21174,7.25,7.25,M,S
+213,0.0,2,Mr,Givard,male,1,alone,30.0,250646,13.0,13.0,M,S
+214,0.0,3,Mr,Kiernan,male,2,small,24.81636726546906,367229,7.75,3.875,M,Q
+215,1.0,1,Miss,Newell,female,2,small,31.0,35273,113.275,56.6375,D,C
+216,1.0,3,Miss,Honkanen,female,1,alone,27.0,STON/O2. 3101283,7.925,7.925,M,S
+217,0.0,2,Mr,Jacobsohn,male,2,small,42.0,243847,27.0,13.5,M,S
+218,1.0,1,Miss,Bazzani,female,1,alone,32.0,11813,76.2917,76.2917,D,C
+219,0.0,2,Mr,Harris,male,1,alone,30.0,W/C 14208,10.5,10.5,M,S
+220,1.0,3,Mr,Sunderland,male,1,alone,16.0,SOTON/OQ 392089,8.05,8.05,M,S
+221,0.0,2,Mr,Bracken,male,1,alone,27.0,220367,13.0,13.0,M,S
+222,0.0,3,Mr,Green,male,1,alone,51.0,21440,8.05,8.05,M,S
+223,0.0,3,Mr,Nenkoff,male,1,alone,24.81636726546906,349234,7.8958,7.8958,M,S
+224,1.0,1,Mr,Hoyt,male,2,small,38.0,19943,90.0,45.0,C,S
+225,0.0,3,Mr,Berglund,male,1,alone,22.0,PP 4348,9.35,9.35,M,S
+226,1.0,2,Mr,Mellors,male,1,alone,19.0,SW/PP 751,10.5,10.5,M,S
+227,0.0,3,Mr,Lovell,male,1,alone,20.5,A/5 21173,7.25,7.25,M,S
+228,0.0,2,Mr,Fahlstrom,male,1,alone,18.0,236171,13.0,13.0,M,S
+229,0.0,3,Miss,Lefebre,female,5,large,24.81636726546906,4133,25.4667,5.0933399999999995,M,S
+230,1.0,1,Miss,Harris,female,2,small,35.0,36973,83.475,41.7375,C,S
+231,0.0,3,Mr,Larsson,male,1,alone,29.0,347067,7.775,7.775,M,S
+232,0.0,2,Mr,Sjostedt,male,1,alone,59.0,237442,13.5,13.5,M,S
+233,1.0,3,Miss,Asplund,female,7,large,5.0,347077,31.3875,4.483928571428572,M,S
+234,0.0,2,Mr,Leyson,male,1,alone,24.0,C.A. 29566,10.5,10.5,M,S
+235,0.0,3,Miss,Harknett,female,1,alone,24.81636726546906,W./C. 6609,7.55,7.55,M,S
+236,0.0,2,Mr,Hold,male,2,small,44.0,26707,26.0,13.0,M,S
+237,1.0,2,Miss,Collyer,female,3,small,8.0,C.A. 31921,26.25,8.75,M,S
+238,0.0,2,Mr,Pengelly,male,1,alone,19.0,28665,10.5,10.5,M,S
+239,0.0,2,Mr,Hunt,male,1,alone,33.0,SCO/W 1585,12.275,12.275,M,S
+240,0.0,3,Miss,Zabour,female,2,small,24.81636726546906,2665,14.4542,7.2271,M,C
+241,1.0,3,Miss,Murphy,female,2,small,24.81636726546906,367230,15.5,7.75,M,Q
+242,0.0,2,Mr,Coleridge,male,1,alone,29.0,W./C. 14263,10.5,10.5,M,S
+243,0.0,3,Mr,Maenpaa,male,1,alone,22.0,STON/O 2. 3101275,7.125,7.125,M,S
+244,0.0,3,Mr,Attalah,male,1,alone,30.0,2694,7.225,7.225,M,C
+245,0.0,1,Mr,Minahan,male,3,small,44.0,19928,90.0,30.0,C,Q
+246,0.0,3,Miss,Lindahl,female,1,alone,25.0,347071,7.775,7.775,M,S
+247,1.0,2,Miss,Hamalainen,female,3,small,24.0,250649,14.5,4.833333333333333,M,S
+248,1.0,1,Mr,Beckwith,male,3,small,37.0,11751,52.5542,17.518066666666666,D,S
+249,0.0,2,Mr,Carter,male,2,small,54.0,244252,26.0,13.0,M,S
+250,0.0,3,Mr,Reed,male,1,alone,24.81636726546906,362316,7.25,7.25,M,S
+251,0.0,3,Miss,Strom,female,3,small,29.0,347054,10.4625,3.4875000000000003,G,S
+252,0.0,1,Mr,Stead,male,1,alone,62.0,113514,26.55,26.55,C,S
+253,0.0,3,Mr,Lobb,male,2,small,30.0,A/5. 3336,16.1,8.05,M,S
+254,0.0,3,Miss,Rosblom,female,3,small,41.0,370129,20.2125,6.7375,M,S
+255,1.0,3,Miss,Touma,female,3,small,29.0,2650,15.2458,5.081933333333333,M,C
+256,1.0,1,Miss,Thorne,female,1,alone,39.15992957746479,PC 17585,79.2,79.2,M,C
+257,1.0,1,Miss,Cherry,female,1,alone,30.0,110152,86.5,86.5,B,S
+258,1.0,1,Miss,Ward,female,1,alone,35.0,PC 17755,512.3292,512.3292,M,C
+259,1.0,2,Miss,Parrish,female,2,small,50.0,230433,26.0,13.0,M,S
+260,0.0,3,Mr,Smith,male,1,alone,24.81636726546906,384461,7.75,7.75,M,Q
+261,1.0,3,Mr,Asplund,male,7,large,3.0,347077,31.3875,4.483928571428572,M,S
+262,0.0,1,Mr,Taussig,male,3,small,52.0,110413,79.65,26.55,E,S
+263,0.0,1,Mr,Harrison,male,1,alone,40.0,112059,0.0,0.0,B,S
+264,0.0,3,Miss,Henry,female,1,alone,24.81636726546906,382649,7.75,7.75,M,Q
+265,0.0,2,Mr,Reeves,male,1,alone,36.0,C.A. 17248,10.5,10.5,M,S
+266,0.0,3,Mr,Panula,male,6,large,16.0,3101295,39.6875,6.614583333333333,M,S
+267,1.0,3,Mr,Persson,male,2,small,25.0,347083,7.775,3.8875,M,S
+268,1.0,1,Miss,Graham,female,2,small,58.0,PC 17582,153.4625,76.73125,C,S
+269,1.0,1,Miss,Bissette,female,1,alone,35.0,PC 17760,135.6333,135.6333,C,S
+270,0.0,1,Mr,Cairns,male,1,alone,39.15992957746479,113798,31.0,31.0,M,S
+271,1.0,3,Mr,Tornquist,male,1,alone,25.0,LINE,0.0,0.0,M,S
+272,1.0,2,Miss,Mellinger,female,2,small,41.0,250644,19.5,9.75,M,S
+273,0.0,1,Mr,Natsch,male,2,small,37.0,PC 17596,29.7,14.85,C,C
+274,1.0,3,Miss,Healy,female,1,alone,24.81636726546906,370375,7.75,7.75,M,Q
+275,1.0,1,Miss,Andrews,female,2,small,63.0,13502,77.9583,38.97915,D,S
+276,0.0,3,Miss,Lindblom,female,1,alone,45.0,347073,7.75,7.75,M,S
+277,0.0,2,Mr,Parkes,male,1,alone,29.506704980842912,239853,0.0,0.0,M,S
+278,0.0,3,Mr,Rice,male,6,large,7.0,382652,29.125,4.854166666666667,M,Q
+279,1.0,3,Miss,Abbott,female,3,small,35.0,C.A. 2673,20.25,6.75,M,S
+280,0.0,3,Mr,Duane,male,1,alone,65.0,336439,7.75,7.75,M,Q
+281,0.0,3,Mr,Olsson,male,1,alone,28.0,347464,7.8542,7.8542,M,S
+282,0.0,3,Mr,de Pelsmaeker,male,1,alone,16.0,345778,9.5,9.5,M,S
+283,1.0,3,Mr,Dorking,male,1,alone,19.0,A/5. 10482,8.05,8.05,M,S
+284,0.0,1,Mr,Smith,male,1,alone,39.15992957746479,113056,26.0,26.0,A,S
+285,0.0,3,Mr,Stankovic,male,1,alone,33.0,349239,8.6625,8.6625,M,C
+286,1.0,3,Mr,de Mulder,male,1,alone,30.0,345774,9.5,9.5,M,S
+287,0.0,3,Mr,Naidenoff,male,1,alone,22.0,349206,7.8958,7.8958,M,S
+288,1.0,2,Mr,Hosono,male,1,alone,42.0,237798,13.0,13.0,M,S
+289,1.0,3,Miss,Connolly,female,1,alone,22.0,370373,7.75,7.75,M,Q
+290,1.0,1,Miss,Barber,female,1,alone,26.0,19877,78.85,78.85,M,S
+291,1.0,1,Miss,Bishop,female,2,small,19.0,11967,91.0792,45.5396,B,C
+292,0.0,2,Mr,Levy,male,1,alone,36.0,SC/Paris 2163,12.875,12.875,D,C
+293,0.0,3,Miss,Haas,female,1,alone,24.0,349236,8.85,8.85,M,S
+294,0.0,3,Mr,Mineff,male,1,alone,24.0,349233,7.8958,7.8958,M,S
+295,0.0,1,Mr,Lewy,male,1,alone,39.15992957746479,PC 17612,27.7208,27.7208,M,C
+296,0.0,3,Mr,Hanna,male,1,alone,23.5,2693,7.2292,7.2292,M,C
+297,0.0,1,Miss,Allison,female,4,small,2.0,113781,151.55,37.8875,C,S
+298,1.0,1,Mr,Saalfeld,male,1,alone,39.15992957746479,19988,30.5,30.5,C,S
+299,1.0,1,Miss,Baxter,female,2,small,50.0,PC 17558,247.5208,123.7604,B,C
+300,1.0,3,Miss,Kelly,female,1,alone,24.81636726546906,9234,7.75,7.75,M,Q
+301,1.0,3,Mr,McCoy,male,3,small,24.81636726546906,367226,23.25,7.75,M,Q
+302,0.0,3,Mr,Johnson,male,1,alone,19.0,LINE,0.0,0.0,M,S
+303,1.0,2,Miss,Keane,female,1,alone,29.506704980842912,226593,12.35,12.35,E,Q
+304,0.0,3,Mr,Williams,male,1,alone,24.81636726546906,A/5 2466,8.05,8.05,M,S
+305,1.0,1,Mr,Allison,male,4,small,0.92,113781,151.55,37.8875,C,S
+306,1.0,1,Miss,Fleming,female,1,alone,39.15992957746479,17421,110.8833,110.8833,M,C
+307,1.0,1,Miss,Penasco y Castellana,female,2,small,17.0,PC 17758,108.9,54.45,C,C
+308,0.0,2,Mr,Abelson,male,2,small,30.0,P/PP 3381,24.0,12.0,M,C
+309,1.0,1,Miss,Francatelli,female,1,alone,30.0,PC 17485,56.9292,56.9292,E,C
+310,1.0,1,Miss,Hays,female,1,alone,24.0,11767,83.1583,83.1583,C,C
+311,1.0,1,Miss,Ryerson,female,5,large,18.0,PC 17608,262.375,52.475,B,C
+312,0.0,2,Miss,Lahtinen,female,3,small,26.0,250651,26.0,8.666666666666666,M,S
+313,0.0,3,Mr,Hendekovic,male,1,alone,28.0,349243,7.8958,7.8958,M,S
+314,0.0,2,Mr,Hart,male,3,small,43.0,F.C.C. 13529,26.25,8.75,M,S
+315,1.0,3,Miss,Nilsson,female,1,alone,26.0,347470,7.8542,7.8542,M,S
+316,1.0,2,Miss,Kantor,female,2,small,24.0,244367,26.0,13.0,M,S
+317,0.0,2,Mr,Moraweck,male,1,alone,54.0,29011,14.0,14.0,M,S
+318,1.0,1,Miss,Wick,female,3,small,31.0,36928,164.8667,54.95556666666667,C,S
+319,1.0,1,Miss,Spedden,female,3,small,40.0,16966,134.5,44.833333333333336,E,C
+320,0.0,3,Mr,Dennis,male,1,alone,22.0,A/5 21172,7.25,7.25,M,S
+321,0.0,3,Mr,Danoff,male,1,alone,27.0,349219,7.8958,7.8958,M,S
+322,1.0,2,Miss,Slayter,female,1,alone,30.0,234818,12.35,12.35,M,Q
+323,1.0,2,Miss,Caldwell,female,3,small,22.0,248738,29.0,9.666666666666666,M,S
+324,0.0,3,Mr,Sage,male,11,large,24.81636726546906,CA. 2343,69.55,6.322727272727272,M,S
+325,1.0,1,Miss,Young,female,1,alone,36.0,PC 17760,135.6333,135.6333,C,C
+326,0.0,3,Mr,Nysveen,male,1,alone,61.0,345364,6.2375,6.2375,M,S
+327,1.0,2,Miss,Ball,female,1,alone,36.0,28551,13.0,13.0,D,S
+328,1.0,3,Miss,Goldsmith,female,3,small,31.0,363291,20.525,6.841666666666666,M,S
+329,1.0,1,Miss,Hippach,female,2,small,16.0,111361,57.9792,28.9896,B,C
+330,1.0,3,Miss,McCoy,female,3,small,24.81636726546906,367226,23.25,7.75,M,Q
+331,0.0,1,Mr,Partner,male,1,alone,45.5,113043,28.5,28.5,C,S
+332,0.0,1,Mr,Graham,male,2,small,38.0,PC 17582,153.4625,76.73125,C,S
+333,0.0,3,Mr,Vander Planke,male,3,small,16.0,345764,18.0,6.0,M,S
+334,1.0,1,Miss,Frauenthal,female,2,small,39.15992957746479,PC 17611,133.65,66.825,M,S
+335,0.0,3,Mr,Denkoff,male,1,alone,24.81636726546906,349225,7.8958,7.8958,M,S
+336,0.0,1,Mr,Pears,male,2,small,29.0,113776,66.6,33.3,C,S
+337,1.0,1,Miss,Burns,female,1,alone,41.0,16966,134.5,134.5,E,C
+338,1.0,3,Mr,Dahl,male,1,alone,45.0,7598,8.05,8.05,M,S
+339,0.0,1,Mr,Blackwell,male,1,alone,45.0,113784,35.5,35.5,T,S
+340,1.0,2,Mr,Navratil,male,3,small,2.0,230080,26.0,8.666666666666666,F,S
+341,1.0,1,Miss,Fortune,female,6,large,24.0,19950,263.0,43.833333333333336,C,S
+342,0.0,2,Mr,Collander,male,1,alone,28.0,248740,13.0,13.0,M,S
+343,0.0,2,Mr,Sedgwick,male,1,alone,25.0,244361,13.0,13.0,M,S
+344,0.0,2,Mr,Fox,male,1,alone,36.0,229236,13.0,13.0,M,S
+345,1.0,2,Miss,Brown,female,1,alone,24.0,248733,13.0,13.0,F,S
+346,1.0,2,Miss,Smith,female,1,alone,40.0,31418,13.0,13.0,M,S
+347,1.0,3,Miss,Davison,female,2,small,24.81636726546906,386525,16.1,8.05,M,S
+348,1.0,3,Mr,Coutts,male,3,small,3.0,C.A. 37671,15.9,5.3,M,S
+349,0.0,3,Mr,Dimic,male,1,alone,42.0,315088,8.6625,8.6625,M,S
+350,0.0,3,Mr,Odahl,male,1,alone,23.0,7267,9.225,9.225,M,S
+351,0.0,1,Mr,Williams-Lambert,male,1,alone,39.15992957746479,113510,35.0,35.0,C,S
+352,0.0,3,Mr,Elias,male,3,small,15.0,2695,7.2292,2.409733333333333,M,C
+353,0.0,3,Mr,Arnold-Franchi,male,2,small,25.0,349237,17.8,8.9,M,S
+354,0.0,3,Mr,Yousif,male,1,alone,24.81636726546906,2647,7.225,7.225,M,C
+355,0.0,3,Mr,Vanden Steen,male,1,alone,28.0,345783,9.5,9.5,M,S
+356,1.0,1,Miss,Bowerman,female,2,small,22.0,113505,55.0,27.5,E,S
+357,0.0,2,Miss,Funk,female,1,alone,38.0,237671,13.0,13.0,M,S
+358,1.0,3,Miss,McGovern,female,1,alone,24.81636726546906,330931,7.8792,7.8792,M,Q
+359,1.0,3,Miss,Mockler,female,1,alone,24.81636726546906,330980,7.8792,7.8792,M,Q
+360,0.0,3,Mr,Skoog,male,6,large,40.0,347088,27.9,4.6499999999999995,M,S
+361,0.0,2,Mr,del Carlo,male,2,small,29.0,SC/PARIS 2167,27.7208,13.8604,M,C
+362,0.0,3,Miss,Barbara,female,2,small,45.0,2691,14.4542,7.2271,M,C
+363,0.0,3,Mr,Asim,male,1,alone,35.0,SOTON/O.Q. 3101310,7.05,7.05,M,S
+364,0.0,3,Mr,O'Brien,male,2,small,24.81636726546906,370365,15.5,7.75,M,Q
+365,0.0,3,Mr,Adahl,male,1,alone,30.0,C 7076,7.25,7.25,M,S
+366,1.0,1,Miss,Warren,female,2,small,60.0,110813,75.25,37.625,D,C
+367,1.0,3,Miss,Moussa,female,1,alone,24.81636726546906,2626,7.2292,7.2292,M,C
+368,1.0,3,Miss,Jermyn,female,1,alone,24.81636726546906,14313,7.75,7.75,M,Q
+369,1.0,1,Miss,Aubart,female,1,alone,24.0,PC 17477,69.3,69.3,B,C
+370,1.0,1,Mr,Harder,male,2,small,25.0,11765,55.4417,27.72085,E,C
+371,0.0,3,Mr,Wiklund,male,2,small,18.0,3101267,6.4958,3.2479,M,S
+372,0.0,3,Mr,Beavan,male,1,alone,19.0,323951,8.05,8.05,M,S
+373,0.0,1,Mr,Ringhini,male,1,alone,22.0,PC 17760,135.6333,135.6333,M,C
+374,0.0,3,Miss,Palsson,female,5,large,3.0,349909,21.075,4.215,M,S
+375,1.0,1,Miss,Meyer,female,2,small,39.15992957746479,PC 17604,82.1708,41.0854,M,C
+376,1.0,3,Miss,Landergren,female,1,alone,22.0,C 7077,7.25,7.25,M,S
+377,0.0,1,Mr,Widener,male,3,small,27.0,113503,211.5,70.5,C,C
+378,0.0,3,Mr,Betros,male,1,alone,20.0,2648,4.0125,4.0125,M,C
+379,0.0,3,Mr,Gustafsson,male,1,alone,19.0,347069,7.775,7.775,M,S
+380,1.0,1,Miss,Bidois,female,1,alone,42.0,PC 17757,227.525,227.525,M,C
+381,1.0,3,Miss,Nakid,female,3,small,1.0,2653,15.7417,5.247233333333333,M,C
+382,0.0,3,Mr,Tikkanen,male,1,alone,32.0,STON/O 2. 3101293,7.925,7.925,M,S
+383,1.0,1,Miss,Holverson,female,2,small,35.0,113789,52.0,26.0,M,S
+384,0.0,3,Mr,Plotcharsky,male,1,alone,24.81636726546906,349227,7.8958,7.8958,M,S
+385,0.0,2,Mr,Davies,male,1,alone,18.0,S.O.C. 14879,73.5,73.5,M,S
+386,0.0,3,Mr,Goodwin,male,8,large,1.0,CA 2144,46.9,5.8625,M,S
+387,1.0,2,Miss,Buss,female,1,alone,36.0,27849,13.0,13.0,M,S
+388,0.0,3,Mr,Sadlier,male,1,alone,24.81636726546906,367655,7.7292,7.7292,M,Q
+389,1.0,2,Miss,Lehmann,female,1,alone,17.0,SC 1748,12.0,12.0,M,C
+390,1.0,1,Mr,Carter,male,4,small,36.0,113760,120.0,30.0,B,S
+391,1.0,3,Mr,Jansson,male,1,alone,21.0,350034,7.7958,7.7958,M,S
+392,0.0,3,Mr,Gustafsson,male,3,small,28.0,3101277,7.925,2.6416666666666666,M,S
+393,1.0,1,Miss,Newell,female,2,small,23.0,35273,113.275,56.6375,D,C
+394,1.0,3,Miss,Sandstrom,female,3,small,24.0,PP 9549,16.7,5.566666666666666,G,S
+395,0.0,3,Mr,Johansson,male,1,alone,22.0,350052,7.7958,7.7958,M,S
+396,0.0,3,Miss,Olsson,female,1,alone,31.0,350407,7.8542,7.8542,M,S
+397,0.0,2,Mr,McKane,male,1,alone,46.0,28403,26.0,26.0,M,S
+398,0.0,2,Mr,Pain,male,1,alone,23.0,244278,10.5,10.5,M,S
+399,1.0,2,Miss,Trout,female,1,alone,28.0,240929,12.65,12.65,M,S
+400,1.0,3,Mr,Niskanen,male,1,alone,39.0,STON/O 2. 3101289,7.925,7.925,M,S
+401,0.0,3,Mr,Adams,male,1,alone,26.0,341826,8.05,8.05,M,S
+402,0.0,3,Miss,Jussila,female,2,small,21.0,4137,9.825,4.9125,M,S
+403,0.0,3,Mr,Hakkarainen,male,2,small,28.0,STON/O2. 3101279,15.85,7.925,M,S
+404,0.0,3,Miss,Oreskovic,female,1,alone,20.0,315096,8.6625,8.6625,M,S
+405,0.0,2,Mr,Gale,male,2,small,34.0,28664,21.0,10.5,M,S
+406,0.0,3,Mr,Widegren,male,1,alone,51.0,347064,7.75,7.75,M,S
+407,1.0,2,Mr,Richards,male,3,small,3.0,29106,18.75,6.25,M,S
+408,0.0,3,Mr,Birkeland,male,1,alone,21.0,312992,7.775,7.775,M,S
+409,0.0,3,Miss,Lefebre,female,5,large,24.81636726546906,4133,25.4667,5.0933399999999995,M,S
+410,0.0,3,Mr,Sdycoff,male,1,alone,24.81636726546906,349222,7.8958,7.8958,M,S
+411,0.0,3,Mr,Hart,male,1,alone,24.81636726546906,394140,6.8583,6.8583,M,Q
+412,1.0,1,Miss,Minahan,female,2,small,33.0,19928,90.0,45.0,C,Q
+413,0.0,2,Mr,Cunningham,male,1,alone,29.506704980842912,239853,0.0,0.0,M,S
+414,1.0,3,Mr,Sundman,male,1,alone,44.0,STON/O 2. 3101269,7.925,7.925,M,S
+415,0.0,3,Miss,Meek,female,1,alone,24.81636726546906,343095,8.05,8.05,M,S
+416,1.0,2,Miss,Drew,female,3,small,34.0,28220,32.5,10.833333333333334,M,S
+417,1.0,2,Miss,Silven,female,3,small,18.0,250652,13.0,4.333333333333333,M,S
+418,0.0,2,Mr,Matthews,male,1,alone,30.0,28228,13.0,13.0,M,S
+419,0.0,3,Miss,Van Impe,female,3,small,10.0,345773,24.15,8.049999999999999,M,S
+420,0.0,3,Mr,Gheorgheff,male,1,alone,24.81636726546906,349254,7.8958,7.8958,M,C
+421,0.0,3,Mr,Charters,male,1,alone,21.0,A/5. 13032,7.7333,7.7333,M,Q
+422,0.0,3,Mr,Zimmerman,male,1,alone,29.0,315082,7.875,7.875,M,S
+423,0.0,3,Miss,Danbom,female,3,small,28.0,347080,14.4,4.8,M,S
+424,0.0,3,Mr,Rosblom,male,3,small,18.0,370129,20.2125,6.7375,M,S
+425,0.0,3,Mr,Wiseman,male,1,alone,24.81636726546906,A/4. 34244,7.25,7.25,M,S
+426,1.0,2,Miss,Clarke,female,2,small,28.0,2003,26.0,13.0,M,S
+427,1.0,2,Miss,Phillips,female,1,alone,19.0,250655,26.0,26.0,M,S
+428,0.0,3,Mr,Flynn,male,1,alone,24.81636726546906,364851,7.75,7.75,M,Q
+429,1.0,3,Mr,Pickard,male,1,alone,32.0,SOTON/O.Q. 392078,8.05,8.05,E,S
+430,1.0,1,Mr,Bjornstrom-Steffansson,male,1,alone,28.0,110564,26.55,26.55,C,S
+431,1.0,3,Miss,Thorneycroft,female,2,small,24.81636726546906,376564,16.1,8.05,M,S
+432,1.0,2,Miss,Louch,female,2,small,42.0,SC/AH 3085,26.0,13.0,M,S
+433,0.0,3,Mr,Kallio,male,1,alone,17.0,STON/O 2. 3101274,7.125,7.125,M,S
+434,0.0,1,Mr,Silvey,male,2,small,50.0,13507,55.9,27.95,E,S
+435,1.0,1,Miss,Carter,female,4,small,14.0,113760,120.0,30.0,B,S
+436,0.0,3,Miss,Ford,female,5,large,21.0,W./C. 6608,34.375,6.875,M,S
+437,1.0,2,Miss,Richards,female,6,large,24.0,29106,18.75,3.125,M,S
+438,0.0,1,Mr,Fortune,male,6,large,64.0,19950,263.0,43.833333333333336,C,S
+439,0.0,2,Mr,Kvillner,male,1,alone,31.0,C.A. 18723,10.5,10.5,M,S
+440,1.0,2,Miss,Hart,female,3,small,45.0,F.C.C. 13529,26.25,8.75,M,S
+441,0.0,3,Mr,Hampe,male,1,alone,20.0,345769,9.5,9.5,M,S
+442,0.0,3,Mr,Petterson,male,2,small,25.0,347076,7.775,3.8875,M,S
+443,1.0,2,Miss,Reynaldo,female,1,alone,28.0,230434,13.0,13.0,M,S
+444,1.0,3,Mr,Johannesen-Bratthammer,male,1,alone,24.81636726546906,65306,8.1125,8.1125,M,S
+445,1.0,1,Mr,Dodge,male,3,small,4.0,33638,81.8583,27.2861,A,S
+446,1.0,2,Miss,Mellinger,female,2,small,13.0,250644,19.5,9.75,M,S
+447,1.0,1,Mr,Seward,male,1,alone,34.0,113794,26.55,26.55,M,S
+448,1.0,3,Miss,Baclini,female,4,small,5.0,2666,19.2583,4.814575,M,C
+449,1.0,1,Mr,Peuchen,male,1,alone,52.0,113786,30.5,30.5,C,S
+450,0.0,2,Mr,West,male,4,small,36.0,C.A. 34651,27.75,6.9375,M,S
+451,0.0,3,Mr,Hagland,male,2,small,24.81636726546906,65303,19.9667,9.98335,M,S
+452,0.0,1,Mr,Foreman,male,1,alone,30.0,113051,27.75,27.75,C,C
+453,1.0,1,Mr,Goldenberg,male,2,small,49.0,17453,89.1042,44.5521,C,C
+454,0.0,3,Mr,Peduzzi,male,1,alone,24.81636726546906,A/5 2817,8.05,8.05,M,S
+455,1.0,3,Mr,Jalsevac,male,1,alone,29.0,349240,7.8958,7.8958,M,C
+456,0.0,1,Mr,Millet,male,1,alone,65.0,13509,26.55,26.55,E,S
+457,1.0,1,Miss,Kenyon,female,2,small,39.15992957746479,17464,51.8625,25.93125,D,S
+458,1.0,2,Miss,Toomey,female,1,alone,50.0,F.C.C. 13531,10.5,10.5,M,S
+459,0.0,3,Mr,O'Connor,male,1,alone,24.81636726546906,371060,7.75,7.75,M,Q
+460,1.0,1,Mr,Anderson,male,1,alone,48.0,19952,26.55,26.55,E,S
+461,0.0,3,Mr,Morley,male,1,alone,34.0,364506,8.05,8.05,M,S
+462,0.0,1,Mr,Gee,male,1,alone,47.0,111320,38.5,38.5,E,S
+463,0.0,2,Mr,Milling,male,1,alone,48.0,234360,13.0,13.0,M,S
+464,0.0,3,Mr,Maisner,male,1,alone,24.81636726546906,A/S 2816,8.05,8.05,M,S
+465,0.0,3,Mr,Goncalves,male,1,alone,38.0,SOTON/O.Q. 3101306,7.05,7.05,M,S
+466,0.0,2,Mr,Campbell,male,1,alone,29.506704980842912,239853,0.0,0.0,M,S
+467,0.0,1,Mr,Smart,male,1,alone,56.0,113792,26.55,26.55,M,S
+468,0.0,3,Mr,Scanlan,male,1,alone,24.81636726546906,36209,7.725,7.725,M,Q
+469,1.0,3,Miss,Baclini,female,4,small,0.75,2666,19.2583,4.814575,M,C
+470,0.0,3,Mr,Keefe,male,1,alone,24.81636726546906,323592,7.25,7.25,M,S
+471,0.0,3,Mr,Cacic,male,1,alone,38.0,315089,8.6625,8.6625,M,S
+472,1.0,2,Miss,West,female,4,small,33.0,C.A. 34651,27.75,6.9375,M,S
+473,1.0,2,Miss,Jerwan,female,1,alone,23.0,SC/AH Basle 541,13.7917,13.7917,D,C
+474,0.0,3,Miss,Strandberg,female,1,alone,22.0,7553,9.8375,9.8375,M,S
+475,0.0,1,Mr,Clifford,male,1,alone,39.15992957746479,110465,52.0,52.0,A,S
+476,0.0,2,Mr,Renouf,male,2,small,34.0,31027,21.0,10.5,M,S
+477,0.0,3,Mr,Braund,male,2,small,29.0,3460,7.0458,3.5229,M,S
+478,0.0,3,Mr,Karlsson,male,1,alone,22.0,350060,7.5208,7.5208,M,S
+479,1.0,3,Miss,Hirvonen,female,2,small,2.0,3101298,12.2875,6.14375,M,S
+480,0.0,3,Mr,Goodwin,male,8,large,9.0,CA 2144,46.9,5.8625,M,S
+481,0.0,2,Mr,Frost,male,1,alone,29.506704980842912,239854,0.0,0.0,M,S
+482,0.0,3,Mr,Rouse,male,1,alone,50.0,A/5 3594,8.05,8.05,M,S
+483,1.0,3,Miss,Turkula,female,1,alone,63.0,4134,9.5875,9.5875,M,S
+484,1.0,1,Mr,Bishop,male,2,small,25.0,11967,91.0792,45.5396,B,C
+485,0.0,3,Miss,Lefebre,female,5,large,24.81636726546906,4133,25.4667,5.0933399999999995,M,S
+486,1.0,1,Miss,Hoyt,female,2,small,35.0,19943,90.0,45.0,C,S
+487,0.0,1,Mr,Kent,male,1,alone,58.0,11771,29.7,29.7,B,C
+488,0.0,3,Mr,Somerton,male,1,alone,30.0,A.5. 18509,8.05,8.05,M,S
+489,1.0,3,Mr,Coutts,male,3,small,9.0,C.A. 37671,15.9,5.3,M,S
+490,0.0,3,Mr,Hagland,male,2,small,24.81636726546906,65304,19.9667,9.98335,M,S
+491,0.0,3,Mr,Windelov,male,1,alone,21.0,SOTON/OQ 3101317,7.25,7.25,M,S
+492,0.0,1,Mr,Molson,male,1,alone,55.0,113787,30.5,30.5,C,S
+493,0.0,1,Mr,Artagaveytia,male,1,alone,71.0,PC 17609,49.5042,49.5042,M,C
+494,0.0,3,Mr,Stanley,male,1,alone,21.0,A/4 45380,8.05,8.05,M,S
+495,0.0,3,Mr,Yousseff,male,1,alone,24.81636726546906,2627,14.4583,14.4583,M,C
+496,1.0,1,Miss,Eustis,female,2,small,54.0,36947,78.2667,39.13335,D,C
+497,0.0,3,Mr,Shellard,male,1,alone,24.81636726546906,C.A. 6212,15.1,15.1,M,S
+498,0.0,1,Miss,Allison,female,4,small,25.0,113781,151.55,37.8875,C,S
+499,0.0,3,Mr,Svensson,male,1,alone,24.0,350035,7.7958,7.7958,M,S
+500,0.0,3,Mr,Calic,male,1,alone,17.0,315086,8.6625,8.6625,M,S
+501,0.0,3,Miss,Canavan,female,1,alone,21.0,364846,7.75,7.75,M,Q
+502,0.0,3,Miss,O'Sullivan,female,1,alone,24.81636726546906,330909,7.6292,7.6292,M,Q
+503,0.0,3,Miss,Laitinen,female,1,alone,37.0,4135,9.5875,9.5875,M,S
+504,1.0,1,Miss,Maioni,female,1,alone,16.0,110152,86.5,86.5,B,S
+505,0.0,1,Mr,Penasco y Castellana,male,2,small,18.0,PC 17758,108.9,54.45,C,C
+506,1.0,2,Miss,Quick,female,3,small,33.0,26360,26.0,8.666666666666666,M,S
+507,1.0,1,Mr,Bradley,male,1,alone,39.15992957746479,111427,26.55,26.55,M,S
+508,0.0,3,Mr,Olsen,male,1,alone,28.0,C 4001,22.525,22.525,M,S
+509,1.0,3,Mr,Lang,male,1,alone,26.0,1601,56.4958,56.4958,M,S
+510,1.0,3,Mr,Daly,male,1,alone,29.0,382651,7.75,7.75,M,Q
+511,0.0,3,Mr,Webber,male,1,alone,24.81636726546906,SOTON/OQ 3101316,8.05,8.05,M,S
+512,1.0,1,Mr,McGough,male,1,alone,36.0,PC 17473,26.2875,26.2875,E,S
+513,1.0,1,Miss,Rothschild,female,2,small,54.0,PC 17603,59.4,29.7,M,C
+514,0.0,3,Mr,Coleff,male,1,alone,24.0,349209,7.4958,7.4958,M,S
+515,0.0,1,Mr,Walker,male,1,alone,47.0,36967,34.0208,34.0208,D,S
+516,1.0,2,Miss,Lemore,female,1,alone,34.0,C.A. 34260,10.5,10.5,F,S
+517,0.0,3,Mr,Ryan,male,1,alone,24.81636726546906,371110,24.15,24.15,M,Q
+518,1.0,2,Miss,Angle,female,2,small,36.0,226875,26.0,13.0,M,S
+519,0.0,3,Mr,Pavlovic,male,1,alone,32.0,349242,7.8958,7.8958,M,S
+520,1.0,1,Miss,Perreault,female,1,alone,30.0,12749,93.5,93.5,B,S
+521,0.0,3,Mr,Vovk,male,1,alone,22.0,349252,7.8958,7.8958,M,S
+522,0.0,3,Mr,Lahoud,male,1,alone,24.81636726546906,2624,7.225,7.225,M,C
+523,1.0,1,Miss,Hippach,female,2,small,44.0,111361,57.9792,28.9896,B,C
+524,0.0,3,Mr,Kassem,male,1,alone,24.81636726546906,2700,7.2292,7.2292,M,C
+525,0.0,3,Mr,Farrell,male,1,alone,40.5,367232,7.75,7.75,M,Q
+526,1.0,2,Miss,Ridsdale,female,1,alone,50.0,W./C. 14258,10.5,10.5,M,S
+527,0.0,1,Mr,Farthing,male,1,alone,39.15992957746479,PC 17483,221.7792,221.7792,C,S
+528,0.0,3,Mr,Salonen,male,1,alone,39.0,3101296,7.925,7.925,M,S
+529,0.0,2,Mr,Hocking,male,4,small,23.0,29104,11.5,2.875,M,S
+530,1.0,2,Miss,Quick,female,3,small,2.0,26360,26.0,8.666666666666666,M,S
+531,0.0,3,Mr,Toufik,male,1,alone,24.81636726546906,2641,7.2292,7.2292,M,C
+532,0.0,3,Mr,Elias,male,3,small,17.0,2690,7.2292,2.409733333333333,M,C
+533,1.0,3,Miss,Peter,female,3,small,24.81636726546906,2668,22.3583,7.452766666666666,M,C
+534,0.0,3,Miss,Cacic,female,1,alone,30.0,315084,8.6625,8.6625,M,S
+535,1.0,2,Miss,Hart,female,3,small,7.0,F.C.C. 13529,26.25,8.75,M,S
+536,0.0,1,Mr,Butt,male,1,alone,45.0,113050,26.55,26.55,B,S
+537,1.0,1,Miss,LeRoy,female,1,alone,30.0,PC 17761,106.425,106.425,M,C
+538,0.0,3,Mr,Risien,male,1,alone,24.81636726546906,364498,14.5,14.5,M,S
+539,1.0,1,Miss,Frolicher,female,3,small,22.0,13568,49.5,16.5,B,C
+540,1.0,1,Miss,Crosby,female,3,small,36.0,WE/P 5735,71.0,23.666666666666668,B,S
+541,0.0,3,Miss,Andersson,female,7,large,9.0,347082,31.275,4.4678571428571425,M,S
+542,0.0,3,Miss,Andersson,female,7,large,11.0,347082,31.275,4.4678571428571425,M,S
+543,1.0,2,Mr,Beane,male,2,small,32.0,2908,26.0,13.0,M,S
+544,0.0,1,Mr,Douglas,male,2,small,50.0,PC 17761,106.425,53.2125,C,C
+545,0.0,1,Mr,Nicholson,male,1,alone,64.0,693,26.0,26.0,M,S
+546,1.0,2,Miss,Beane,female,2,small,19.0,2908,26.0,13.0,M,S
+547,1.0,2,Mr,Padro y Manent,male,1,alone,29.506704980842912,SC/PARIS 2146,13.8625,13.8625,M,C
+548,0.0,3,Mr,Goldsmith,male,3,small,33.0,363291,20.525,6.841666666666666,M,S
+549,1.0,2,Mr,Davies,male,3,small,8.0,C.A. 33112,36.75,12.25,M,S
+550,1.0,1,Mr,Thayer,male,3,small,17.0,17421,110.8833,36.9611,C,C
+551,0.0,2,Mr,Sharp,male,1,alone,27.0,244358,26.0,26.0,M,S
+552,0.0,3,Mr,O'Brien,male,1,alone,24.81636726546906,330979,7.8292,7.8292,M,Q
+553,1.0,3,Mr,Leeni,male,1,alone,22.0,2620,7.225,7.225,M,C
+554,1.0,3,Miss,Ohman,female,1,alone,22.0,347085,7.775,7.775,M,S
+555,0.0,1,Mr,Wright,male,1,alone,62.0,113807,26.55,26.55,M,S
+556,1.0,1,Miss,Duff Gordon,female,2,small,48.0,11755,39.6,19.8,A,C
+557,0.0,1,Mr,Robbins,male,1,alone,39.15992957746479,PC 17757,227.525,227.525,M,C
+558,1.0,1,Miss,Taussig,female,3,small,39.0,110413,79.65,26.55,E,S
+559,1.0,3,Miss,de Messemaeker,female,2,small,36.0,345572,17.4,8.7,M,S
+560,0.0,3,Mr,Morrow,male,1,alone,24.81636726546906,372622,7.75,7.75,M,Q
+561,0.0,3,Mr,Sivic,male,1,alone,40.0,349251,7.8958,7.8958,M,S
+562,0.0,2,Mr,Norman,male,1,alone,28.0,218629,13.5,13.5,M,S
+563,0.0,3,Mr,Simmons,male,1,alone,24.81636726546906,SOTON/OQ 392082,8.05,8.05,M,S
+564,0.0,3,Miss,Meanwell,female,1,alone,24.81636726546906,SOTON/O.Q. 392087,8.05,8.05,M,S
+565,0.0,3,Mr,Davies,male,3,small,24.0,A/4 48871,24.15,8.049999999999999,M,S
+566,0.0,3,Mr,Stoytcheff,male,1,alone,19.0,349205,7.8958,7.8958,M,S
+567,0.0,3,Miss,Palsson,female,5,large,29.0,349909,21.075,4.215,M,S
+568,0.0,3,Mr,Doharr,male,1,alone,24.81636726546906,2686,7.2292,7.2292,M,C
+569,1.0,3,Mr,Jonsson,male,1,alone,32.0,350417,7.8542,7.8542,M,S
+570,1.0,2,Mr,Harris,male,1,alone,62.0,S.W./PP 752,10.5,10.5,M,S
+571,1.0,1,Miss,Appleton,female,3,small,53.0,11769,51.4792,17.15973333333333,C,S
+572,1.0,1,Mr,Flynn,male,1,alone,36.0,PC 17474,26.3875,26.3875,E,S
+573,1.0,3,Miss,Kelly,female,1,alone,24.81636726546906,14312,7.75,7.75,M,Q
+574,0.0,3,Mr,Rush,male,1,alone,16.0,A/4. 20589,8.05,8.05,M,S
+575,0.0,3,Mr,Patchett,male,1,alone,19.0,358585,14.5,14.5,M,S
+576,1.0,2,Miss,Garside,female,1,alone,34.0,243880,13.0,13.0,M,S
+577,1.0,1,Miss,Silvey,female,2,small,39.0,13507,55.9,27.95,E,S
+578,0.0,3,Miss,Caram,female,2,small,24.81636726546906,2689,14.4583,7.22915,M,C
+579,1.0,3,Mr,Jussila,male,1,alone,32.0,STON/O 2. 3101286,7.925,7.925,M,S
+580,1.0,2,Miss,Christy,female,3,small,25.0,237789,30.0,10.0,M,S
+581,1.0,1,Miss,Thayer,female,3,small,39.0,17421,110.8833,36.9611,C,C
+582,0.0,2,Mr,Downton,male,1,alone,54.0,28403,26.0,26.0,M,S
+583,0.0,1,Mr,Ross,male,1,alone,36.0,13049,40.125,40.125,A,C
+584,0.0,3,Mr,Paulner,male,1,alone,24.81636726546906,3411,8.7125,8.7125,M,C
+585,1.0,1,Miss,Taussig,female,3,small,18.0,110413,79.65,26.55,E,S
+586,0.0,2,Mr,Jarvis,male,1,alone,47.0,237565,15.0,15.0,M,S
+587,1.0,1,Mr,Frolicher-Stehli,male,3,small,60.0,13567,79.2,26.400000000000002,B,C
+588,0.0,3,Mr,Gilinski,male,1,alone,22.0,14973,8.05,8.05,M,S
+589,0.0,3,Mr,Murdlin,male,1,alone,24.81636726546906,A./5. 3235,8.05,8.05,M,S
+590,0.0,3,Mr,Rintamaki,male,1,alone,35.0,STON/O 2. 3101273,7.125,7.125,M,S
+591,1.0,1,Miss,Stephenson,female,2,small,52.0,36947,78.2667,39.13335,D,C
+592,0.0,3,Mr,Elsbury,male,1,alone,47.0,A/5 3902,7.25,7.25,M,S
+593,0.0,3,Miss,Bourke,female,3,small,24.81636726546906,364848,7.75,2.5833333333333335,M,Q
+594,0.0,2,Mr,Chapman,male,2,small,37.0,SC/AH 29037,26.0,13.0,M,S
+595,0.0,3,Mr,Van Impe,male,3,small,36.0,345773,24.15,8.049999999999999,M,S
+596,1.0,2,Miss,Leitch,female,1,alone,29.506704980842912,248727,33.0,33.0,M,S
+597,0.0,3,Mr,Johnson,male,1,alone,49.0,LINE,0.0,0.0,M,S
+598,0.0,3,Mr,Boulos,male,1,alone,24.81636726546906,2664,7.225,7.225,M,C
+599,1.0,1,Mr,Duff Gordon,male,2,small,49.0,PC 17485,56.9292,28.4646,A,C
+600,1.0,2,Miss,Jacobsohn,female,4,small,24.0,243847,27.0,6.75,M,S
+601,0.0,3,Mr,Slabenoff,male,1,alone,24.81636726546906,349214,7.8958,7.8958,M,S
+602,0.0,1,Mr,Harrington,male,1,alone,39.15992957746479,113796,42.4,42.4,M,S
+603,0.0,3,Mr,Torber,male,1,alone,44.0,364511,8.05,8.05,M,S
+604,1.0,1,Mr,Homer,male,1,alone,35.0,111426,26.55,26.55,M,C
+605,0.0,3,Mr,Lindell,male,2,small,36.0,349910,15.55,7.775,M,S
+606,0.0,3,Mr,Karaic,male,1,alone,30.0,349246,7.8958,7.8958,M,S
+607,1.0,1,Mr,Daniel,male,1,alone,27.0,113804,30.5,30.5,M,S
+608,1.0,2,Miss,Laroche,female,4,small,22.0,SC/Paris 2123,41.5792,10.3948,M,C
+609,1.0,1,Miss,Shutes,female,1,alone,40.0,PC 17582,153.4625,153.4625,C,S
+610,0.0,3,Miss,Andersson,female,7,large,39.0,347082,31.275,4.4678571428571425,M,S
+611,0.0,3,Mr,Jardin,male,1,alone,24.81636726546906,SOTON/O.Q. 3101305,7.05,7.05,M,S
+612,1.0,3,Miss,Murphy,female,2,small,24.81636726546906,367230,15.5,7.75,M,Q
+613,0.0,3,Mr,Horgan,male,1,alone,24.81636726546906,370377,7.75,7.75,M,Q
+614,0.0,3,Mr,Brocklebank,male,1,alone,35.0,364512,8.05,8.05,M,S
+615,1.0,2,Miss,Herman,female,4,small,24.0,220845,65.0,16.25,M,S
+616,0.0,3,Mr,Danbom,male,3,small,34.0,347080,14.4,4.8,M,S
+617,0.0,3,Miss,Lobb,female,2,small,26.0,A/5. 3336,16.1,8.05,M,S
+618,1.0,2,Miss,Becker,female,4,small,4.0,230136,39.0,9.75,F,S
+619,0.0,2,Mr,Gavey,male,1,alone,26.0,31028,10.5,10.5,M,S
+620,0.0,3,Mr,Yasbeck,male,2,small,27.0,2659,14.4542,7.2271,M,C
+621,1.0,1,Mr,Kimball,male,2,small,42.0,11753,52.5542,26.2771,D,S
+622,1.0,3,Mr,Nakid,male,3,small,20.0,2653,15.7417,5.247233333333333,M,C
+623,0.0,3,Mr,Hansen,male,1,alone,21.0,350029,7.8542,7.8542,M,S
+624,0.0,3,Mr,Bowen,male,1,alone,21.0,54636,16.1,16.1,M,S
+625,0.0,1,Mr,Sutton,male,1,alone,61.0,36963,32.3208,32.3208,D,S
+626,0.0,2,Mr,Kirkland,male,1,alone,57.0,219533,12.35,12.35,M,Q
+627,1.0,1,Miss,Longley,female,1,alone,21.0,13502,77.9583,77.9583,D,S
+628,0.0,3,Mr,Bostandyeff,male,1,alone,26.0,349224,7.8958,7.8958,M,S
+629,0.0,3,Mr,O'Connell,male,1,alone,24.81636726546906,334912,7.7333,7.7333,M,Q
+630,1.0,1,Mr,Barkworth,male,1,alone,80.0,27042,30.0,30.0,A,S
+631,0.0,3,Mr,Lundahl,male,1,alone,51.0,347743,7.0542,7.0542,M,S
+632,1.0,1,Mr,Stahelin-Maeglin,male,1,alone,32.0,13214,30.5,30.5,B,C
+633,0.0,1,Mr,Parr,male,1,alone,39.15992957746479,112052,0.0,0.0,M,S
+634,0.0,3,Miss,Skoog,female,6,large,9.0,347088,27.9,4.6499999999999995,M,S
+635,1.0,2,Miss,Davis,female,1,alone,28.0,237668,13.0,13.0,M,S
+636,0.0,3,Mr,Leinonen,male,1,alone,32.0,STON/O 2. 3101292,7.925,7.925,M,S
+637,0.0,2,Mr,Collyer,male,3,small,31.0,C.A. 31921,26.25,8.75,M,S
+638,0.0,3,Miss,Panula,female,6,large,41.0,3101295,39.6875,6.614583333333333,M,S
+639,0.0,3,Mr,Thorneycroft,male,2,small,24.81636726546906,376564,16.1,8.05,M,S
+640,0.0,3,Mr,Jensen,male,1,alone,20.0,350050,7.8542,7.8542,M,S
+641,1.0,1,Miss,Sagesser,female,1,alone,24.0,PC 17477,69.3,69.3,B,C
+642,0.0,3,Miss,Skoog,female,6,large,2.0,347088,27.9,4.6499999999999995,M,S
+643,1.0,3,Mr,Foo,male,1,alone,24.81636726546906,1601,56.4958,56.4958,M,S
+644,1.0,3,Miss,Baclini,female,4,small,0.75,2666,19.2583,4.814575,M,C
+645,1.0,1,Mr,Harper,male,2,small,48.0,PC 17572,76.7292,38.3646,D,C
+646,0.0,3,Mr,Cor,male,1,alone,19.0,349231,7.8958,7.8958,M,S
+647,1.0,1,Mr,Simonius-Blumer,male,1,alone,56.0,13213,35.5,35.5,A,C
+648,0.0,3,Mr,Willey,male,1,alone,24.81636726546906,S.O./P.P. 751,7.55,7.55,M,S
+649,1.0,3,Miss,Stanley,female,1,alone,23.0,CA. 2314,7.55,7.55,M,S
+650,0.0,3,Mr,Mitkoff,male,1,alone,24.81636726546906,349221,7.8958,7.8958,M,S
+651,1.0,2,Miss,Doling,female,2,small,18.0,231919,23.0,11.5,M,S
+652,0.0,3,Mr,Kalvik,male,1,alone,21.0,8475,8.4333,8.4333,M,S
+653,1.0,3,Miss,O'Leary,female,1,alone,24.81636726546906,330919,7.8292,7.8292,M,Q
+654,0.0,3,Miss,Hegarty,female,1,alone,18.0,365226,6.75,6.75,M,Q
+655,0.0,2,Mr,Hickman,male,3,small,24.0,S.O.C. 14879,73.5,24.5,M,S
+656,0.0,3,Mr,Radeff,male,1,alone,24.81636726546906,349223,7.8958,7.8958,M,S
+657,0.0,3,Miss,Bourke,female,3,small,32.0,364849,15.5,5.166666666666667,M,Q
+658,0.0,2,Mr,Eitemiller,male,1,alone,23.0,29751,13.0,13.0,M,S
+659,0.0,1,Mr,Newell,male,3,small,58.0,35273,113.275,37.75833333333333,D,C
+660,1.0,1,Mr,Frauenthal,male,3,small,50.0,PC 17611,133.65,44.550000000000004,M,S
+661,0.0,3,Mr,Badt,male,1,alone,40.0,2623,7.225,7.225,M,C
+662,0.0,1,Mr,Colley,male,1,alone,47.0,5727,25.5875,25.5875,E,S
+663,0.0,3,Mr,Coleff,male,1,alone,36.0,349210,7.4958,7.4958,M,S
+664,1.0,3,Mr,Lindqvist,male,2,small,20.0,STON/O 2. 3101285,7.925,3.9625,M,S
+665,0.0,2,Mr,Hickman,male,3,small,32.0,S.O.C. 14879,73.5,24.5,M,S
+666,0.0,2,Mr,Butler,male,1,alone,25.0,234686,13.0,13.0,M,S
+667,0.0,3,Mr,Rommetvedt,male,1,alone,24.81636726546906,312993,7.775,7.775,M,S
+668,0.0,3,Mr,Cook,male,1,alone,43.0,A/5 3536,8.05,8.05,M,S
+669,1.0,1,Miss,Taylor,female,2,small,39.15992957746479,19996,52.0,26.0,C,S
+670,1.0,2,Miss,Brown,female,3,small,40.0,29750,39.0,13.0,M,S
+671,0.0,1,Mr,Davidson,male,2,small,31.0,F.C. 12750,52.0,26.0,B,S
+672,0.0,2,Mr,Mitchell,male,1,alone,70.0,C.A. 24580,10.5,10.5,M,S
+673,1.0,2,Mr,Wilhelms,male,1,alone,31.0,244270,13.0,13.0,M,S
+674,0.0,2,Mr,Watson,male,1,alone,29.506704980842912,239856,0.0,0.0,M,S
+675,0.0,3,Mr,Edvardsson,male,1,alone,18.0,349912,7.775,7.775,M,S
+676,0.0,3,Mr,Sawyer,male,1,alone,24.5,342826,8.05,8.05,M,S
+677,1.0,3,Miss,Turja,female,1,alone,18.0,4138,9.8417,9.8417,M,S
+678,0.0,3,Miss,Goodwin,female,8,large,43.0,CA 2144,46.9,5.8625,M,S
+679,1.0,1,Mr,Cardeza,male,2,small,36.0,PC 17755,512.3292,256.1646,B,C
+680,0.0,3,Miss,Peters,female,1,alone,24.81636726546906,330935,8.1375,8.1375,M,Q
+681,1.0,1,Mr,Hassab,male,1,alone,27.0,PC 17572,76.7292,76.7292,D,C
+682,0.0,3,Mr,Olsvigen,male,1,alone,20.0,6563,9.225,9.225,M,S
+683,0.0,3,Mr,Goodwin,male,8,large,14.0,CA 2144,46.9,5.8625,M,S
+684,0.0,2,Mr,Brown,male,3,small,60.0,29750,39.0,13.0,M,S
+685,0.0,2,Mr,Laroche,male,4,small,25.0,SC/Paris 2123,41.5792,10.3948,M,C
+686,0.0,3,Mr,Panula,male,6,large,14.0,3101295,39.6875,6.614583333333333,M,S
+687,0.0,3,Mr,Dakic,male,1,alone,19.0,349228,10.1708,10.1708,M,S
+688,0.0,3,Mr,Fischer,male,1,alone,18.0,350036,7.7958,7.7958,M,S
+689,1.0,1,Miss,Madill,female,2,small,15.0,24160,211.3375,105.66875,B,S
+690,1.0,1,Mr,Dick,male,2,small,31.0,17474,57.0,28.5,B,S
+691,1.0,3,Miss,Karun,female,2,small,4.0,349256,13.4167,6.70835,M,C
+692,1.0,3,Mr,Lam,male,1,alone,24.81636726546906,1601,56.4958,56.4958,M,S
+693,0.0,3,Mr,Saad,male,1,alone,25.0,2672,7.225,7.225,M,C
+694,0.0,1,Mr,Weir,male,1,alone,60.0,113800,26.55,26.55,M,S
+695,0.0,2,Mr,Chapman,male,1,alone,52.0,248731,13.5,13.5,M,S
+696,0.0,3,Mr,Kelly,male,1,alone,44.0,363592,8.05,8.05,M,S
+697,1.0,3,Miss,Mullens,female,1,alone,24.81636726546906,35852,7.7333,7.7333,M,Q
+698,0.0,1,Mr,Thayer,male,3,small,49.0,17421,110.8833,36.9611,C,C
+699,0.0,3,Mr,Humblen,male,1,alone,42.0,348121,7.65,7.65,F,S
+700,1.0,1,Miss,Astor,female,2,small,18.0,PC 17757,227.525,113.7625,C,C
+701,1.0,1,Mr,Silverthorne,male,1,alone,35.0,PC 17475,26.2875,26.2875,E,S
+702,0.0,3,Miss,Barbara,female,2,small,18.0,2691,14.4542,7.2271,M,C
+703,0.0,3,Mr,Gallagher,male,1,alone,25.0,36864,7.7417,7.7417,M,Q
+704,0.0,3,Mr,Hansen,male,2,small,26.0,350025,7.8542,3.9271,M,S
+705,0.0,2,Mr,Morley,male,1,alone,39.0,250655,26.0,26.0,M,S
+706,1.0,2,Miss,Kelly,female,1,alone,45.0,223596,13.5,13.5,M,S
+707,1.0,1,Mr,Calderhead,male,1,alone,42.0,PC 17476,26.2875,26.2875,E,S
+708,1.0,1,Miss,Cleaver,female,1,alone,22.0,113781,151.55,151.55,M,S
+709,1.0,3,Mr,Moubarek,male,3,small,24.81636726546906,2661,15.2458,5.081933333333333,M,C
+710,1.0,1,Miss,Mayne,female,1,alone,24.0,PC 17482,49.5042,49.5042,C,C
+711,0.0,1,Mr,Klaber,male,1,alone,39.15992957746479,113028,26.55,26.55,C,S
+712,1.0,1,Mr,Taylor,male,2,small,48.0,19996,52.0,26.0,C,S
+713,0.0,3,Mr,Larsson,male,1,alone,29.0,7545,9.4833,9.4833,M,S
+714,0.0,2,Mr,Greenberg,male,1,alone,52.0,250647,13.0,13.0,M,S
+715,0.0,3,Mr,Soholt,male,1,alone,19.0,348124,7.65,7.65,F,S
+716,1.0,1,Miss,Endres,female,1,alone,38.0,PC 17757,227.525,227.525,C,C
+717,1.0,2,Miss,Troutt,female,1,alone,27.0,34218,10.5,10.5,E,S
+718,0.0,3,Mr,McEvoy,male,1,alone,24.81636726546906,36568,15.5,15.5,M,Q
+719,0.0,3,Mr,Johnson,male,1,alone,33.0,347062,7.775,7.775,M,S
+720,1.0,2,Miss,Harper,female,2,small,6.0,248727,33.0,16.5,M,S
+721,0.0,3,Mr,Jensen,male,2,small,17.0,350048,7.0542,3.5271,M,S
+722,0.0,2,Mr,Gillespie,male,1,alone,34.0,12233,13.0,13.0,M,S
+723,0.0,2,Mr,Hodges,male,1,alone,50.0,250643,13.0,13.0,M,S
+724,1.0,1,Mr,Chambers,male,2,small,27.0,113806,53.1,26.55,E,S
+725,0.0,3,Mr,Oreskovic,male,1,alone,20.0,315094,8.6625,8.6625,M,S
+726,1.0,2,Miss,Renouf,female,4,small,30.0,31027,21.0,5.25,M,S
+727,1.0,3,Miss,Mannion,female,1,alone,24.81636726546906,36866,7.7375,7.7375,M,Q
+728,0.0,2,Mr,Bryhl,male,2,small,25.0,236853,26.0,13.0,M,S
+729,0.0,3,Miss,Ilmakangas,female,2,small,25.0,STON/O2. 3101271,7.925,3.9625,M,S
+730,1.0,1,Miss,Allen,female,1,alone,29.0,24160,211.3375,211.3375,B,S
+731,0.0,3,Mr,Hassan,male,1,alone,11.0,2699,18.7875,18.7875,M,C
+732,0.0,2,Mr,Knight,male,1,alone,29.506704980842912,239855,0.0,0.0,M,S
+733,0.0,2,Mr,Berriman,male,1,alone,23.0,28425,13.0,13.0,M,S
+734,0.0,2,Mr,Troupiansky,male,1,alone,23.0,233639,13.0,13.0,M,S
+735,0.0,3,Mr,Williams,male,1,alone,28.5,54636,16.1,16.1,M,S
+736,0.0,3,Miss,Ford,female,5,large,48.0,W./C. 6608,34.375,6.875,M,S
+737,1.0,1,Mr,Lesurer,male,1,alone,35.0,PC 17755,512.3292,512.3292,B,C
+738,0.0,3,Mr,Ivanoff,male,1,alone,24.81636726546906,349201,7.8958,7.8958,M,S
+739,0.0,3,Mr,Nankoff,male,1,alone,24.81636726546906,349218,7.8958,7.8958,M,S
+740,1.0,1,Mr,Hawksford,male,1,alone,39.15992957746479,16988,30.0,30.0,D,S
+741,0.0,1,Mr,Cavendish,male,2,small,36.0,19877,78.85,39.425,C,S
+742,1.0,1,Miss,Ryerson,female,5,large,21.0,PC 17608,262.375,52.475,B,C
+743,0.0,3,Mr,McNamee,male,2,small,24.0,376566,16.1,8.05,M,S
+744,1.0,3,Mr,Stranden,male,1,alone,31.0,STON/O 2. 3101288,7.925,7.925,M,S
+745,0.0,1,Mr,Crosby,male,3,small,70.0,WE/P 5735,71.0,23.666666666666668,B,S
+746,0.0,3,Mr,Abbott,male,3,small,16.0,C.A. 2673,20.25,6.75,M,S
+747,1.0,2,Miss,Sinkkonen,female,1,alone,30.0,250648,13.0,13.0,M,S
+748,0.0,1,Mr,Marvin,male,2,small,19.0,113773,53.1,26.55,D,S
+749,0.0,3,Mr,Connaghton,male,1,alone,31.0,335097,7.75,7.75,M,Q
+750,1.0,2,Miss,Wells,female,3,small,4.0,29103,23.0,7.666666666666667,M,S
+751,1.0,3,Mr,Moor,male,2,small,6.0,392096,12.475,6.2375,E,S
+752,0.0,3,Mr,Vande Velde,male,1,alone,33.0,345780,9.5,9.5,M,S
+753,0.0,3,Mr,Jonkoff,male,1,alone,23.0,349204,7.8958,7.8958,M,S
+754,1.0,2,Miss,Herman,female,4,small,48.0,220845,65.0,16.25,M,S
+755,1.0,2,Mr,Hamalainen,male,3,small,0.67,250649,14.5,4.833333333333333,M,S
+756,0.0,3,Mr,Carlsson,male,1,alone,28.0,350042,7.7958,7.7958,M,S
+757,0.0,2,Mr,Bailey,male,1,alone,18.0,29108,11.5,11.5,M,S
+758,0.0,3,Mr,Theobald,male,1,alone,34.0,363294,8.05,8.05,M,S
+759,1.0,1,Miss,Rothes,female,1,alone,33.0,110152,86.5,86.5,B,S
+760,0.0,3,Mr,Garfirth,male,1,alone,24.81636726546906,358585,14.5,14.5,M,S
+761,0.0,3,Mr,Nirva,male,1,alone,41.0,SOTON/O2 3101272,7.125,7.125,M,S
+762,1.0,3,Mr,Barah,male,1,alone,20.0,2663,7.2292,7.2292,M,C
+763,1.0,1,Miss,Carter,female,4,small,36.0,113760,120.0,30.0,B,S
+764,0.0,3,Mr,Eklund,male,1,alone,16.0,347074,7.775,7.775,M,S
+765,1.0,1,Miss,Hogeboom,female,2,small,51.0,13502,77.9583,38.97915,D,S
+766,0.0,1,Mr,Brewe,male,1,alone,39.15992957746479,112379,39.6,39.6,M,C
+767,0.0,3,Miss,Mangan,female,1,alone,30.5,364850,7.75,7.75,M,Q
+768,0.0,3,Mr,Moran,male,2,small,24.81636726546906,371110,24.15,12.075,M,Q
+769,0.0,3,Mr,Gronnestad,male,1,alone,32.0,8471,8.3625,8.3625,M,S
+770,0.0,3,Mr,Lievens,male,1,alone,24.0,345781,9.5,9.5,M,S
+771,0.0,3,Mr,Jensen,male,1,alone,48.0,350047,7.8542,7.8542,M,S
+772,0.0,2,Miss,Mack,female,1,alone,57.0,S.O./P.P. 3,10.5,10.5,E,S
+773,0.0,3,Mr,Elias,male,1,alone,24.81636726546906,2674,7.225,7.225,M,C
+774,1.0,2,Miss,Hocking,female,5,large,54.0,29105,23.0,4.6,M,S
+775,0.0,3,Mr,Myhrman,male,1,alone,18.0,347078,7.75,7.75,M,S
+776,0.0,3,Mr,Tobin,male,1,alone,24.81636726546906,383121,7.75,7.75,F,Q
+777,1.0,3,Miss,Emanuel,female,1,alone,5.0,364516,12.475,12.475,M,S
+778,0.0,3,Mr,Kilgannon,male,1,alone,24.81636726546906,36865,7.7375,7.7375,M,Q
+779,1.0,1,Miss,Robert,female,2,small,43.0,24160,211.3375,105.66875,B,S
+780,1.0,3,Miss,Ayoub,female,1,alone,13.0,2687,7.2292,7.2292,M,C
+781,1.0,1,Miss,Dick,female,2,small,17.0,17474,57.0,28.5,B,S
+782,0.0,1,Mr,Long,male,1,alone,29.0,113501,30.0,30.0,D,S
+783,0.0,3,Mr,Johnston,male,4,small,24.81636726546906,W./C. 6607,23.45,5.8625,M,S
+784,0.0,3,Mr,Ali,male,1,alone,25.0,SOTON/O.Q. 3101312,7.05,7.05,M,S
+785,0.0,3,Mr,Harmer,male,1,alone,25.0,374887,7.25,7.25,M,S
+786,1.0,3,Miss,Sjoblom,female,1,alone,18.0,3101265,7.4958,7.4958,M,S
+787,0.0,3,Mr,Rice,male,6,large,8.0,382652,29.125,4.854166666666667,M,Q
+788,1.0,3,Mr,Dean,male,4,small,1.0,C.A. 2315,20.575,5.14375,M,S
+789,0.0,1,Mr,Guggenheim,male,1,alone,46.0,PC 17593,79.2,79.2,B,C
+790,0.0,3,Mr,Keane,male,1,alone,24.81636726546906,12460,7.75,7.75,M,Q
+791,0.0,2,Mr,Gaskell,male,1,alone,16.0,239865,26.0,26.0,M,S
+792,0.0,3,Miss,Sage,female,11,large,24.81636726546906,CA. 2343,69.55,6.322727272727272,M,S
+793,0.0,1,Mr,Hoyt,male,1,alone,39.15992957746479,PC 17600,30.6958,30.6958,M,C
+794,0.0,3,Mr,Dantcheff,male,1,alone,25.0,349203,7.8958,7.8958,M,S
+795,0.0,2,Mr,Otter,male,1,alone,39.0,28213,13.0,13.0,M,S
+796,1.0,1,Miss,Leader,female,1,alone,49.0,17465,25.9292,25.9292,D,S
+797,1.0,3,Miss,Osman,female,1,alone,31.0,349244,8.6833,8.6833,M,S
+798,0.0,3,Mr,Ibrahim Shawah,male,1,alone,30.0,2685,7.2292,7.2292,M,C
+799,0.0,3,Miss,Van Impe,female,3,small,30.0,345773,24.15,8.049999999999999,M,S
+800,0.0,2,Mr,Ponesell,male,1,alone,34.0,250647,13.0,13.0,M,S
+801,1.0,2,Miss,Collyer,female,3,small,31.0,C.A. 31921,26.25,8.75,M,S
+802,1.0,1,Mr,Carter,male,4,small,11.0,113760,120.0,30.0,B,S
+803,1.0,3,Mr,Thomas,male,2,small,0.42,2625,8.5167,4.25835,M,C
+804,1.0,3,Mr,Hedman,male,1,alone,27.0,347089,6.975,6.975,M,S
+805,0.0,3,Mr,Johansson,male,1,alone,31.0,347063,7.775,7.775,M,S
+806,0.0,1,Mr,Andrews,male,1,alone,39.0,112050,0.0,0.0,A,S
+807,0.0,3,Miss,Pettersson,female,1,alone,18.0,347087,7.775,7.775,M,S
+808,0.0,2,Mr,Meyer,male,1,alone,39.0,248723,13.0,13.0,M,S
+809,1.0,1,Miss,Chambers,female,2,small,33.0,113806,53.1,26.55,E,S
+810,0.0,3,Mr,Alexander,male,1,alone,26.0,3474,7.8875,7.8875,M,S
+811,0.0,3,Mr,Lester,male,1,alone,39.0,A/4 48871,24.15,24.15,M,S
+812,0.0,2,Mr,Slemen,male,1,alone,35.0,28206,10.5,10.5,M,S
+813,0.0,3,Miss,Andersson,female,7,large,6.0,347082,31.275,4.4678571428571425,M,S
+814,0.0,3,Mr,Tomlin,male,1,alone,30.5,364499,8.05,8.05,M,S
+815,0.0,1,Mr,Fry,male,1,alone,39.15992957746479,112058,0.0,0.0,B,S
+816,0.0,3,Miss,Heininen,female,1,alone,23.0,STON/O2. 3101290,7.925,7.925,M,S
+817,0.0,2,Mr,Mallet,male,3,small,31.0,S.C./PARIS 2079,37.0042,12.334733333333332,M,C
+818,0.0,3,Mr,Holm,male,1,alone,43.0,C 7075,6.45,6.45,M,S
+819,0.0,3,Mr,Skoog,male,6,large,10.0,347088,27.9,4.6499999999999995,M,S
+820,1.0,1,Miss,Hays,female,3,small,52.0,12749,93.5,31.166666666666668,B,S
+821,1.0,3,Mr,Lulic,male,1,alone,27.0,315098,8.6625,8.6625,M,S
+822,0.0,1,Mr,Reuchlin,male,1,alone,38.0,19972,0.0,0.0,M,S
+823,1.0,3,Miss,Moor,female,2,small,27.0,392096,12.475,6.2375,E,S
+824,0.0,3,Mr,Panula,male,6,large,2.0,3101295,39.6875,6.614583333333333,M,S
+825,0.0,3,Mr,Flynn,male,1,alone,24.81636726546906,368323,6.95,6.95,M,Q
+826,0.0,3,Mr,Lam,male,1,alone,24.81636726546906,1601,56.4958,56.4958,M,S
+827,1.0,2,Mr,Mallet,male,3,small,1.0,S.C./PARIS 2079,37.0042,12.334733333333332,M,C
+828,1.0,3,Mr,McCormack,male,1,alone,24.81636726546906,367228,7.75,7.75,M,Q
+829,1.0,1,Miss,Stone,female,1,alone,62.0,113572,80.0,80.0,B,C
+830,1.0,3,Miss,Yasbeck,female,2,small,15.0,2659,14.4542,7.2271,M,C
+831,1.0,2,Mr,Richards,male,3,small,0.83,29106,18.75,6.25,M,S
+832,0.0,3,Mr,Saad,male,1,alone,24.81636726546906,2671,7.2292,7.2292,M,C
+833,0.0,3,Mr,Augustsson,male,1,alone,23.0,347468,7.8542,7.8542,M,S
+834,0.0,3,Mr,Allum,male,1,alone,18.0,2223,8.3,8.3,M,S
+835,1.0,1,Miss,Compton,female,3,small,39.0,PC 17756,83.1583,27.71943333333333,E,C
+836,0.0,3,Mr,Pasic,male,1,alone,21.0,315097,8.6625,8.6625,M,S
+837,0.0,3,Mr,Sirota,male,1,alone,24.81636726546906,392092,8.05,8.05,M,S
+838,1.0,3,Mr,Chip,male,1,alone,32.0,1601,56.4958,56.4958,M,S
+839,1.0,1,Mr,Marechal,male,1,alone,39.15992957746479,11774,29.7,29.7,C,C
+840,0.0,3,Mr,Alhomaki,male,1,alone,20.0,SOTON/O2 3101287,7.925,7.925,M,S
+841,0.0,2,Mr,Mudd,male,1,alone,16.0,S.O./P.P. 3,10.5,10.5,M,S
+842,1.0,1,Miss,Serepeca,female,1,alone,30.0,113798,31.0,31.0,M,C
+843,0.0,3,Mr,Lemberopolous,male,1,alone,34.5,2683,6.4375,6.4375,M,C
+844,0.0,3,Mr,Culumovic,male,1,alone,17.0,315090,8.6625,8.6625,M,S
+845,0.0,3,Mr,Abbing,male,1,alone,42.0,C.A. 5547,7.55,7.55,M,S
+846,0.0,3,Mr,Sage,male,11,large,24.81636726546906,CA. 2343,69.55,6.322727272727272,M,S
+847,0.0,3,Mr,Markoff,male,1,alone,35.0,349213,7.8958,7.8958,M,C
+848,0.0,2,Mr,Harper,male,2,small,28.0,248727,33.0,16.5,M,S
+849,1.0,1,Miss,Goldenberg,female,2,small,39.15992957746479,17453,89.1042,44.5521,C,C
+850,0.0,3,Mr,Andersson,male,7,large,4.0,347082,31.275,4.4678571428571425,M,S
+851,0.0,3,Mr,Svensson,male,1,alone,74.0,347060,7.775,7.775,M,S
+852,0.0,3,Miss,Boulos,female,3,small,9.0,2678,15.2458,5.081933333333333,M,C
+853,1.0,1,Miss,Lines,female,2,small,16.0,PC 17592,39.4,19.7,D,S
+854,0.0,2,Miss,Carter,female,2,small,44.0,244252,26.0,13.0,M,S
+855,1.0,3,Miss,Aks,female,2,small,18.0,392091,9.35,4.675,M,S
+856,1.0,1,Miss,Wick,female,3,small,45.0,36928,164.8667,54.95556666666667,M,S
+857,1.0,1,Mr,Daly,male,1,alone,51.0,113055,26.55,26.55,E,S
+858,1.0,3,Miss,Baclini,female,4,small,24.0,2666,19.2583,4.814575,M,C
+859,0.0,3,Mr,Razi,male,1,alone,24.81636726546906,2629,7.2292,7.2292,M,C
+860,0.0,3,Mr,Hansen,male,3,small,41.0,350026,14.1083,4.702766666666666,M,S
+861,0.0,2,Mr,Giles,male,2,small,21.0,28134,11.5,5.75,M,S
+862,1.0,1,Miss,Swift,female,1,alone,48.0,17466,25.9292,25.9292,D,S
+863,0.0,3,Miss,Sage,female,11,large,24.81636726546906,CA. 2343,69.55,6.322727272727272,M,S
+864,0.0,2,Mr,Gill,male,1,alone,24.0,233866,13.0,13.0,M,S
+865,1.0,2,Miss,Bystrom,female,1,alone,42.0,236852,13.0,13.0,M,S
+866,1.0,2,Miss,Duran y More,female,2,small,27.0,SC/PARIS 2149,13.8583,6.92915,M,C
+867,0.0,1,Mr,Roebling,male,1,alone,31.0,PC 17590,50.4958,50.4958,A,S
+868,0.0,3,Mr,van Melkebeke,male,1,alone,24.81636726546906,345777,9.5,9.5,M,S
+869,1.0,3,Mr,Johnson,male,3,small,4.0,347742,11.1333,3.7111,M,S
+870,0.0,3,Mr,Balkic,male,1,alone,26.0,349248,7.8958,7.8958,M,S
+871,1.0,1,Miss,Beckwith,female,3,small,47.0,11751,52.5542,17.518066666666666,D,S
+872,0.0,1,Mr,Carlsson,male,1,alone,33.0,695,5.0,5.0,B,S
+873,0.0,3,Mr,Vander Cruyssen,male,1,alone,47.0,345765,9.0,9.0,M,S
+874,1.0,2,Miss,Abelson,female,2,small,28.0,P/PP 3381,24.0,12.0,M,C
+875,1.0,3,Miss,Najib,female,1,alone,15.0,2667,7.225,7.225,M,C
+876,0.0,3,Mr,Gustafsson,male,1,alone,20.0,7534,9.8458,9.8458,M,S
+877,0.0,3,Mr,Petroff,male,1,alone,19.0,349212,7.8958,7.8958,M,S
+878,0.0,3,Mr,Laleff,male,1,alone,24.81636726546906,349217,7.8958,7.8958,M,S
+879,1.0,1,Miss,Potter,female,2,small,56.0,11767,83.1583,41.57915,C,C
+880,1.0,2,Miss,Shelley,female,2,small,25.0,230433,26.0,13.0,M,S
+881,0.0,3,Mr,Markun,male,1,alone,33.0,349257,7.8958,7.8958,M,S
+882,0.0,3,Miss,Dahlberg,female,1,alone,22.0,7552,10.5167,10.5167,M,S
+883,0.0,2,Mr,Banfield,male,1,alone,28.0,C.A./SOTON 34068,10.5,10.5,M,S
+884,0.0,3,Mr,Sutehall,male,1,alone,25.0,SOTON/OQ 392076,7.05,7.05,M,S
+885,0.0,3,Miss,Rice,female,6,large,39.0,382652,29.125,4.854166666666667,M,Q
+886,0.0,2,Mr,Montvila,male,1,alone,27.0,211536,13.0,13.0,M,S
+887,1.0,1,Miss,Graham,female,1,alone,19.0,112053,30.0,30.0,B,S
+888,0.0,3,Miss,Johnston,female,4,small,24.81636726546906,W./C. 6607,23.45,5.8625,M,S
+889,1.0,1,Mr,Behr,male,1,alone,26.0,111369,30.0,30.0,C,C
+890,0.0,3,Mr,Dooley,male,1,alone,32.0,370376,7.75,7.75,M,Q
+891,,3,Mr,Kelly,male,1,alone,34.5,330911,7.8292,7.8292,M,Q
+892,,3,Miss,Wilkes,female,2,small,47.0,363272,7.0,3.5,M,S
+893,,2,Mr,Myles,male,1,alone,62.0,240276,9.6875,9.6875,M,Q
+894,,3,Mr,Wirz,male,1,alone,27.0,315154,8.6625,8.6625,M,S
+895,,3,Miss,Hirvonen,female,3,small,22.0,3101298,12.2875,4.095833333333333,M,S
+896,,3,Mr,Svensson,male,1,alone,14.0,7538,9.225,9.225,M,S
+897,,3,Miss,Connolly,female,1,alone,30.0,330972,7.6292,7.6292,M,Q
+898,,2,Mr,Caldwell,male,3,small,26.0,248738,29.0,9.666666666666666,M,S
+899,,3,Miss,Abrahim,female,1,alone,18.0,2657,7.2292,7.2292,M,C
+900,,3,Mr,Davies,male,3,small,21.0,A/4 48871,24.15,8.049999999999999,M,S
+901,,3,Mr,Ilieff,male,1,alone,24.81636726546906,349220,7.8958,7.8958,M,S
+902,,1,Mr,Jones,male,1,alone,46.0,694,26.0,26.0,M,S
+903,,1,Miss,Snyder,female,2,small,23.0,21228,82.2667,41.13335,B,S
+904,,2,Mr,Howard,male,2,small,63.0,24065,26.0,13.0,M,S
+905,,1,Miss,Chaffee,female,2,small,47.0,W.E.P. 5734,61.175,30.5875,E,S
+906,,2,Miss,del Carlo,female,2,small,24.0,SC/PARIS 2167,27.7208,13.8604,M,C
+907,,2,Mr,Keane,male,1,alone,35.0,233734,12.35,12.35,M,Q
+908,,3,Mr,Assaf,male,1,alone,21.0,2692,7.225,7.225,M,C
+909,,3,Miss,Ilmakangas,female,2,small,27.0,STON/O2. 3101270,7.925,3.9625,M,S
+910,,3,Miss,Assaf Khalil,female,1,alone,45.0,2696,7.225,7.225,M,C
+911,,1,Mr,Rothschild,male,2,small,55.0,PC 17603,59.4,29.7,M,C
+912,,3,Mr,Olsen,male,2,small,9.0,C 17368,3.1708,1.5854,M,S
+913,,1,Miss,Flegenheim,female,1,alone,39.15992957746479,PC 17598,31.6833,31.6833,M,S
+914,,1,Mr,Williams,male,2,small,21.0,PC 17597,61.3792,30.6896,M,C
+915,,1,Miss,Ryerson,female,5,large,48.0,PC 17608,262.375,52.475,B,C
+916,,3,Mr,Robins,male,2,small,50.0,A/5. 3337,14.5,7.25,M,S
+917,,1,Miss,Ostby,female,2,small,22.0,113509,61.9792,30.9896,B,C
+918,,3,Mr,Daher,male,1,alone,22.5,2698,7.225,7.225,M,C
+919,,1,Mr,Brady,male,1,alone,41.0,113054,30.5,30.5,A,S
+920,,3,Mr,Samaan,male,3,small,24.81636726546906,2662,21.6792,7.226400000000001,M,C
+921,,2,Mr,Louch,male,2,small,50.0,SC/AH 3085,26.0,13.0,M,S
+922,,2,Mr,Jefferys,male,3,small,24.0,C.A. 31029,31.5,10.5,M,S
+923,,3,Miss,Dean,female,4,small,33.0,C.A. 2315,20.575,5.14375,M,S
+924,,3,Miss,Johnston,female,4,small,24.81636726546906,W./C. 6607,23.45,5.8625,M,S
+925,,1,Mr,Mock,male,2,small,30.0,13236,57.75,28.875,C,C
+926,,3,Mr,Katavelas,male,1,alone,18.5,2682,7.2292,7.2292,M,C
+927,,3,Miss,Roth,female,1,alone,24.81636726546906,342712,8.05,8.05,M,S
+928,,3,Miss,Cacic,female,1,alone,21.0,315087,8.6625,8.6625,M,S
+929,,3,Mr,Sap,male,1,alone,25.0,345768,9.5,9.5,M,S
+930,,3,Mr,Hee,male,1,alone,24.81636726546906,1601,56.4958,56.4958,M,S
+931,,3,Mr,Karun,male,2,small,39.0,349256,13.4167,6.70835,M,C
+932,,1,Mr,Franklin,male,1,alone,39.15992957746479,113778,26.55,26.55,D,S
+933,,3,Mr,Goldsmith,male,1,alone,41.0,SOTON/O.Q. 3101263,7.85,7.85,M,S
+934,,2,Miss,Corbett,female,1,alone,30.0,237249,13.0,13.0,M,S
+935,,1,Miss,Kimball,female,2,small,45.0,11753,52.5542,26.2771,D,S
+936,,3,Mr,Peltomaki,male,1,alone,25.0,STON/O 2. 3101291,7.925,7.925,M,S
+937,,1,Mr,Chevre,male,1,alone,45.0,PC 17594,29.7,29.7,A,C
+938,,3,Mr,Shaughnessy,male,1,alone,24.81636726546906,370374,7.75,7.75,M,Q
+939,,1,Miss,Bucknell,female,1,alone,60.0,11813,76.2917,76.2917,D,C
+940,,3,Miss,Coutts,female,3,small,36.0,C.A. 37671,15.9,5.3,M,S
+941,,1,Mr,Smith,male,2,small,24.0,13695,60.0,30.0,C,S
+942,,2,Mr,Pulbaum,male,1,alone,27.0,SC/PARIS 2168,15.0333,15.0333,M,C
+943,,2,Miss,Hocking,female,4,small,20.0,29105,23.0,5.75,M,S
+944,,1,Miss,Fortune,female,6,large,28.0,19950,263.0,43.833333333333336,C,S
+945,,2,Mr,Mangiavacchi,male,1,alone,29.506704980842912,SC/A.3 2861,15.5792,15.5792,M,C
+946,,3,Mr,Rice,male,6,large,10.0,382652,29.125,4.854166666666667,M,Q
+947,,3,Mr,Cor,male,1,alone,35.0,349230,7.8958,7.8958,M,S
+948,,3,Mr,Abelseth,male,1,alone,25.0,348122,7.65,7.65,F,S
+949,,3,Mr,Davison,male,2,small,24.81636726546906,386525,16.1,8.05,M,S
+950,,1,Miss,Chaudanson,female,1,alone,36.0,PC 17608,262.375,262.375,B,C
+951,,3,Mr,Dika,male,1,alone,17.0,349232,7.8958,7.8958,M,S
+952,,2,Mr,McCrae,male,1,alone,32.0,237216,13.5,13.5,M,S
+953,,3,Mr,Bjorklund,male,1,alone,18.0,347090,7.75,7.75,M,S
+954,,3,Miss,Bradley,female,1,alone,22.0,334914,7.725,7.725,M,Q
+955,,1,Mr,Ryerson,male,5,large,13.0,PC 17608,262.375,52.475,B,C
+956,,2,Miss,Corey,female,1,alone,29.506704980842912,F.C.C. 13534,21.0,21.0,M,S
+957,,3,Miss,Burns,female,1,alone,18.0,330963,7.8792,7.8792,M,Q
+958,,1,Mr,Moore,male,1,alone,47.0,113796,42.4,42.4,M,S
+959,,1,Mr,Tucker,male,1,alone,31.0,2543,28.5375,28.5375,C,C
+960,,1,Miss,Fortune,female,6,large,60.0,19950,263.0,43.833333333333336,C,S
+961,,3,Miss,Mulvihill,female,1,alone,24.0,382653,7.75,7.75,M,Q
+962,,3,Mr,Minkoff,male,1,alone,21.0,349211,7.8958,7.8958,M,S
+963,,3,Miss,Nieminen,female,1,alone,29.0,3101297,7.925,7.925,M,S
+964,,1,Mr,Ovies y Rodriguez,male,1,alone,28.5,PC 17562,27.7208,27.7208,D,C
+965,,1,Miss,Geiger,female,1,alone,35.0,113503,211.5,211.5,C,C
+966,,1,Mr,Keeping,male,1,alone,32.5,113503,211.5,211.5,C,C
+967,,3,Mr,Miles,male,1,alone,24.81636726546906,359306,8.05,8.05,M,S
+968,,1,Miss,Cornell,female,3,small,55.0,11770,25.7,8.566666666666666,C,S
+969,,2,Mr,Aldworth,male,1,alone,30.0,248744,13.0,13.0,M,S
+970,,3,Miss,Doyle,female,1,alone,24.0,368702,7.75,7.75,M,Q
+971,,3,Mr,Boulos,male,3,small,6.0,2678,15.2458,5.081933333333333,M,C
+972,,1,Mr,Straus,male,2,small,67.0,PC 17483,221.7792,110.8896,C,S
+973,,1,Mr,Case,male,1,alone,49.0,19924,26.0,26.0,M,S
+974,,3,Mr,Demetri,male,1,alone,24.81636726546906,349238,7.8958,7.8958,M,S
+975,,2,Mr,Lamb,male,1,alone,29.506704980842912,240261,10.7083,10.7083,M,Q
+976,,3,Mr,Khalil,male,2,small,24.81636726546906,2660,14.4542,7.2271,M,C
+977,,3,Miss,Barry,female,1,alone,27.0,330844,7.8792,7.8792,M,Q
+978,,3,Miss,Badman,female,1,alone,18.0,A/4 31416,8.05,8.05,M,S
+979,,3,Miss,O'Donoghue,female,1,alone,24.81636726546906,364856,7.75,7.75,M,Q
+980,,2,Mr,Wells,male,3,small,2.0,29103,23.0,7.666666666666667,M,S
+981,,3,Miss,Dyker,female,2,small,22.0,347072,13.9,6.95,M,S
+982,,3,Mr,Pedersen,male,1,alone,24.81636726546906,345498,7.775,7.775,M,S
+983,,1,Miss,Davidson,female,4,small,27.0,F.C. 12750,52.0,13.0,B,S
+984,,3,Mr,Guest,male,1,alone,24.81636726546906,376563,8.05,8.05,M,S
+985,,1,Mr,Birnbaum,male,1,alone,25.0,13905,26.0,26.0,M,C
+986,,3,Mr,Tenglin,male,1,alone,25.0,350033,7.7958,7.7958,M,S
+987,,1,Miss,Cavendish,female,2,small,76.0,19877,78.85,39.425,C,S
+988,,3,Mr,Makinen,male,1,alone,29.0,STON/O 2. 3101268,7.925,7.925,M,S
+989,,3,Miss,Braf,female,1,alone,20.0,347471,7.8542,7.8542,M,S
+990,,3,Mr,Nancarrow,male,1,alone,33.0,A./5. 3338,8.05,8.05,M,S
+991,,1,Miss,Stengel,female,2,small,43.0,11778,55.4417,27.72085,C,C
+992,,2,Mr,Weisz,male,2,small,27.0,228414,26.0,13.0,M,S
+993,,3,Mr,Foley,male,1,alone,24.81636726546906,365235,7.75,7.75,M,Q
+994,,3,Mr,Johansson Palmquist,male,1,alone,26.0,347070,7.775,7.775,M,S
+995,,3,Miss,Thomas,female,3,small,16.0,2625,8.5167,2.8389,M,C
+996,,3,Mr,Holthen,male,1,alone,28.0,C 4001,22.525,22.525,M,S
+997,,3,Mr,Buckley,male,1,alone,21.0,330920,7.8208,7.8208,M,Q
+998,,3,Mr,Ryan,male,1,alone,24.81636726546906,383162,7.75,7.75,M,Q
+999,,3,Mr,Willer,male,1,alone,24.81636726546906,3410,8.7125,8.7125,M,S
+1000,,2,Mr,Swane,male,1,alone,18.5,248734,13.0,13.0,F,S
+1001,,2,Mr,Stanton,male,1,alone,41.0,237734,15.0458,15.0458,M,C
+1002,,3,Miss,Shine,female,1,alone,24.81636726546906,330968,7.7792,7.7792,M,Q
+1003,,1,Miss,Evans,female,1,alone,36.0,PC 17531,31.6792,31.6792,A,C
+1004,,3,Miss,Buckley,female,1,alone,18.5,329944,7.2833,7.2833,M,Q
+1005,,1,Miss,Straus,female,2,small,63.0,PC 17483,221.7792,110.8896,C,S
+1006,,3,Mr,Chronopoulos,male,2,small,18.0,2680,14.4542,7.2271,M,C
+1007,,3,Mr,Thomas,male,1,alone,24.81636726546906,2681,6.4375,6.4375,M,C
+1008,,3,Miss,Sandstrom,female,3,small,1.0,PP 9549,16.7,5.566666666666666,G,S
+1009,,1,Mr,Beattie,male,1,alone,36.0,13050,75.2417,75.2417,C,C
+1010,,2,Miss,Chapman,female,2,small,29.0,SC/AH 29037,26.0,13.0,M,S
+1011,,2,Miss,Watt,female,1,alone,12.0,C.A. 33595,15.75,15.75,M,S
+1012,,3,Mr,Kiernan,male,2,small,24.81636726546906,367227,7.75,3.875,M,Q
+1013,,1,Miss,Schabert,female,2,small,35.0,13236,57.75,28.875,C,C
+1014,,3,Mr,Carver,male,1,alone,28.0,392095,7.25,7.25,M,S
+1015,,3,Mr,Kennedy,male,1,alone,24.81636726546906,368783,7.75,7.75,M,Q
+1016,,3,Miss,Cribb,female,2,small,17.0,371362,16.1,8.05,M,S
+1017,,3,Mr,Brobeck,male,1,alone,22.0,350045,7.7958,7.7958,M,S
+1018,,3,Miss,McCoy,female,3,small,24.81636726546906,367226,23.25,7.75,M,Q
+1019,,2,Mr,Bowenur,male,1,alone,42.0,211535,13.0,13.0,M,S
+1020,,3,Mr,Petersen,male,1,alone,24.0,342441,8.05,8.05,M,S
+1021,,3,Mr,Spinner,male,1,alone,32.0,STON/OQ. 369943,8.05,8.05,M,S
+1022,,1,Mr,Gracie,male,1,alone,53.0,113780,28.5,28.5,C,C
+1023,,3,Miss,Lefebre,female,5,large,24.81636726546906,4133,25.4667,5.0933399999999995,M,S
+1024,,3,Mr,Thomas,male,2,small,24.81636726546906,2621,6.4375,3.21875,M,C
+1025,,3,Mr,Dintcheff,male,1,alone,43.0,349226,7.8958,7.8958,M,S
+1026,,3,Mr,Carlsson,male,1,alone,24.0,350409,7.8542,7.8542,M,S
+1027,,3,Mr,Zakarian,male,1,alone,26.5,2656,7.225,7.225,M,C
+1028,,2,Mr,Schmidt,male,1,alone,26.0,248659,13.0,13.0,M,S
+1029,,3,Miss,Drapkin,female,1,alone,23.0,SOTON/OQ 392083,8.05,8.05,M,S
+1030,,3,Mr,Goodwin,male,8,large,40.0,CA 2144,46.9,5.8625,M,S
+1031,,3,Miss,Goodwin,female,8,large,10.0,CA 2144,46.9,5.8625,M,S
+1032,,1,Miss,Daniels,female,1,alone,33.0,113781,151.55,151.55,M,S
+1033,,1,Mr,Ryerson,male,5,large,61.0,PC 17608,262.375,52.475,B,C
+1034,,2,Mr,Beauchamp,male,1,alone,28.0,244358,26.0,26.0,M,S
+1035,,1,Mr,Lindeberg-Lind,male,1,alone,42.0,17475,26.55,26.55,M,S
+1036,,3,Mr,Vander Planke,male,4,small,31.0,345763,18.0,4.5,M,S
+1037,,1,Mr,Hilliard,male,1,alone,39.15992957746479,17463,51.8625,51.8625,E,S
+1038,,3,Mr,Davies,male,1,alone,22.0,SC/A4 23568,8.05,8.05,M,S
+1039,,1,Mr,Crafton,male,1,alone,39.15992957746479,113791,26.55,26.55,M,S
+1040,,2,Mr,Lahtinen,male,3,small,30.0,250651,26.0,8.666666666666666,M,S
+1041,,1,Miss,Earnshaw,female,2,small,23.0,11767,83.1583,41.57915,C,C
+1042,,3,Mr,Matinoff,male,1,alone,24.81636726546906,349255,7.8958,7.8958,M,C
+1043,,3,Mr,Storey,male,1,alone,60.5,3701,7.758,7.758,M,S
+1044,,3,Miss,Klasen,female,3,small,36.0,350405,12.1833,4.0611,M,S
+1045,,3,Mr,Asplund,male,7,large,13.0,347077,31.3875,4.483928571428572,M,S
+1046,,3,Mr,Duquemin,male,1,alone,24.0,S.O./P.P. 752,7.55,7.55,M,S
+1047,,1,Miss,Bird,female,1,alone,29.0,PC 17483,221.7792,221.7792,C,S
+1048,,3,Miss,Lundin,female,1,alone,23.0,347469,7.8542,7.8542,M,S
+1049,,1,Mr,Borebank,male,1,alone,42.0,110489,26.55,26.55,D,S
+1050,,3,Miss,Peacock,female,3,small,26.0,SOTON/O.Q. 3101315,13.775,4.591666666666667,M,S
+1051,,3,Miss,Smyth,female,1,alone,24.81636726546906,335432,7.7333,7.7333,M,Q
+1052,,3,Mr,Touma,male,3,small,7.0,2650,15.2458,5.081933333333333,M,C
+1053,,2,Miss,Wright,female,1,alone,26.0,220844,13.5,13.5,M,S
+1054,,3,Mr,Pearce,male,1,alone,24.81636726546906,343271,7.0,7.0,M,S
+1055,,2,Mr,Peruschitz,male,1,alone,41.0,237393,13.0,13.0,M,S
+1056,,3,Miss,Kink-Heilmann,female,3,small,26.0,315153,22.025,7.341666666666666,M,S
+1057,,1,Mr,Brandeis,male,1,alone,48.0,PC 17591,50.4958,50.4958,B,C
+1058,,3,Mr,Ford,male,5,large,18.0,W./C. 6608,34.375,6.875,M,S
+1059,,1,Miss,Cassebeer,female,1,alone,39.15992957746479,17770,27.7208,27.7208,M,C
+1060,,3,Miss,Hellstrom,female,1,alone,22.0,7548,8.9625,8.9625,M,S
+1061,,3,Mr,Lithman,male,1,alone,24.81636726546906,S.O./P.P. 251,7.55,7.55,M,S
+1062,,3,Mr,Zakarian,male,1,alone,27.0,2670,7.225,7.225,M,C
+1063,,3,Mr,Dyker,male,2,small,23.0,347072,13.9,6.95,M,S
+1064,,3,Mr,Torfa,male,1,alone,24.81636726546906,2673,7.2292,7.2292,M,C
+1065,,3,Mr,Asplund,male,7,large,40.0,347077,31.3875,4.483928571428572,M,S
+1066,,2,Miss,Brown,female,3,small,15.0,29750,39.0,13.0,M,S
+1067,,2,Miss,Sincock,female,1,alone,20.0,C.A. 33112,36.75,36.75,M,S
+1068,,1,Mr,Stengel,male,2,small,54.0,11778,55.4417,27.72085,C,C
+1069,,2,Miss,Becker,female,4,small,36.0,230136,39.0,9.75,F,S
+1070,,1,Miss,Compton,female,3,small,64.0,PC 17756,83.1583,27.71943333333333,E,C
+1071,,2,Mr,McCrie,male,1,alone,30.0,233478,13.0,13.0,M,S
+1072,,1,Mr,Compton,male,3,small,37.0,PC 17756,83.1583,27.71943333333333,E,C
+1073,,1,Miss,Marvin,female,2,small,18.0,113773,53.1,26.55,D,S
+1074,,3,Mr,Lane,male,1,alone,24.81636726546906,7935,7.75,7.75,M,Q
+1075,,1,Miss,Douglas,female,3,small,27.0,PC 17558,247.5208,82.50693333333334,B,C
+1076,,2,Mr,Maybery,male,1,alone,40.0,239059,16.0,16.0,M,S
+1077,,2,Miss,Phillips,female,2,small,21.0,S.O./P.P. 2,21.0,10.5,M,S
+1078,,3,Mr,Davies,male,3,small,17.0,A/4 48873,8.05,2.6833333333333336,M,S
+1079,,3,Miss,Sage,female,11,large,24.81636726546906,CA. 2343,69.55,6.322727272727272,M,S
+1080,,2,Mr,Veal,male,1,alone,40.0,28221,13.0,13.0,M,S
+1081,,2,Mr,Angle,male,2,small,34.0,226875,26.0,13.0,M,S
+1082,,1,Mr,Salomon,male,1,alone,39.15992957746479,111163,26.0,26.0,M,S
+1083,,3,Mr,van Billiard,male,3,small,11.5,A/5. 851,14.5,4.833333333333333,M,S
+1084,,2,Mr,Lingane,male,1,alone,61.0,235509,12.35,12.35,M,Q
+1085,,2,Mr,Drew,male,3,small,8.0,28220,32.5,10.833333333333334,M,S
+1086,,3,Mr,Karlsson,male,1,alone,33.0,347465,7.8542,7.8542,M,S
+1087,,1,Mr,Spedden,male,3,small,6.0,16966,134.5,44.833333333333336,E,C
+1088,,3,Miss,Nilsson,female,1,alone,18.0,347066,7.775,7.775,M,S
+1089,,2,Mr,Baimbrigge,male,1,alone,23.0,C.A. 31030,10.5,10.5,M,S
+1090,,3,Miss,Rasmussen,female,1,alone,24.81636726546906,65305,8.1125,8.1125,M,S
+1091,,3,Miss,Murphy,female,1,alone,24.81636726546906,36568,15.5,15.5,M,Q
+1092,,3,Mr,Danbom,male,3,small,0.33,347080,14.4,4.8,M,S
+1093,,1,Mr,Astor,male,2,small,47.0,PC 17757,227.525,113.7625,C,C
+1094,,2,Miss,Quick,female,3,small,8.0,26360,26.0,8.666666666666666,M,S
+1095,,2,Mr,Andrew,male,1,alone,25.0,C.A. 34050,10.5,10.5,M,S
+1096,,1,Mr,Omont,male,1,alone,39.15992957746479,F.C. 12998,25.7417,25.7417,M,C
+1097,,3,Miss,McGowan,female,1,alone,35.0,9232,7.75,7.75,M,Q
+1098,,2,Mr,Collett,male,1,alone,24.0,28034,10.5,10.5,M,S
+1099,,1,Miss,Rosenbaum,female,1,alone,33.0,PC 17613,27.7208,27.7208,A,C
+1100,,3,Mr,Delalic,male,1,alone,25.0,349250,7.8958,7.8958,M,S
+1101,,3,Mr,Andersen,male,1,alone,32.0,C 4001,22.525,22.525,M,S
+1102,,3,Mr,Finoli,male,1,alone,24.81636726546906,SOTON/O.Q. 3101308,7.05,7.05,M,S
+1103,,2,Mr,Deacon,male,1,alone,17.0,S.O.C. 14879,73.5,73.5,M,S
+1104,,2,Miss,Howard,female,2,small,60.0,24065,26.0,13.0,M,S
+1105,,3,Miss,Andersson,female,7,large,38.0,347091,7.775,1.1107142857142858,M,S
+1106,,1,Mr,Head,male,1,alone,42.0,113038,42.5,42.5,B,S
+1107,,3,Miss,Mahon,female,1,alone,24.81636726546906,330924,7.8792,7.8792,M,Q
+1108,,1,Mr,Wick,male,3,small,57.0,36928,164.8667,54.95556666666667,M,S
+1109,,1,Miss,Widener,female,3,small,50.0,113503,211.5,70.5,C,C
+1110,,3,Mr,Thomson,male,1,alone,24.81636726546906,32302,8.05,8.05,M,S
+1111,,2,Miss,Duran y More,female,2,small,30.0,SC/PARIS 2148,13.8583,6.92915,M,C
+1112,,3,Mr,Reynolds,male,1,alone,21.0,342684,8.05,8.05,M,S
+1113,,2,Miss,Cook,female,1,alone,22.0,W./C. 14266,10.5,10.5,F,S
+1114,,3,Mr,Karlsson,male,1,alone,21.0,350053,7.7958,7.7958,M,S
+1115,,1,Miss,Candee,female,1,alone,53.0,PC 17606,27.4458,27.4458,M,C
+1116,,3,Miss,Moubarek,female,3,small,24.81636726546906,2661,15.2458,5.081933333333333,M,C
+1117,,3,Mr,Asplund,male,1,alone,23.0,350054,7.7958,7.7958,M,S
+1118,,3,Miss,McNeill,female,1,alone,24.81636726546906,370368,7.75,7.75,M,Q
+1119,,3,Mr,Everett,male,1,alone,40.5,C.A. 6212,15.1,15.1,M,S
+1120,,2,Mr,Hocking,male,1,alone,36.0,242963,13.0,13.0,M,S
+1121,,2,Mr,Sweet,male,1,alone,14.0,220845,65.0,65.0,M,S
+1122,,1,Miss,Willard,female,1,alone,21.0,113795,26.55,26.55,M,S
+1123,,3,Mr,Wiklund,male,2,small,21.0,3101266,6.4958,3.2479,M,S
+1124,,3,Mr,Linehan,male,1,alone,24.81636726546906,330971,7.8792,7.8792,M,Q
+1125,,1,Mr,Cumings,male,2,small,39.0,PC 17599,71.2833,35.64165,C,C
+1126,,3,Mr,Vendel,male,1,alone,20.0,350416,7.8542,7.8542,M,S
+1127,,1,Mr,Warren,male,2,small,64.0,110813,75.25,37.625,D,C
+1128,,3,Mr,Baccos,male,1,alone,20.0,2679,7.225,7.225,M,C
+1129,,2,Miss,Hiltunen,female,3,small,18.0,250650,13.0,4.333333333333333,M,S
+1130,,1,Miss,Douglas,female,2,small,48.0,PC 17761,106.425,53.2125,C,C
+1131,,1,Miss,Lindstrom,female,1,alone,55.0,112377,27.7208,27.7208,M,C
+1132,,2,Miss,Christy,female,3,small,45.0,237789,30.0,10.0,M,S
+1133,,1,Mr,Spedden,male,3,small,45.0,16966,134.5,44.833333333333336,E,C
+1134,,3,Mr,Hyman,male,1,alone,24.81636726546906,3470,7.8875,7.8875,M,S
+1135,,3,Mr,Johnston,male,4,small,24.81636726546906,W./C. 6607,23.45,5.8625,M,S
+1136,,1,Mr,Kenyon,male,2,small,41.0,17464,51.8625,25.93125,D,S
+1137,,2,Miss,Karnes,female,1,alone,22.0,F.C.C. 13534,21.0,21.0,M,S
+1138,,2,Mr,Drew,male,3,small,42.0,28220,32.5,10.833333333333334,M,S
+1139,,2,Miss,Hold,female,2,small,29.0,26707,26.0,13.0,M,S
+1140,,3,Miss,Khalil,female,2,small,24.81636726546906,2660,14.4542,7.2271,M,C
+1141,,2,Miss,West,female,4,small,0.92,C.A. 34651,27.75,6.9375,M,S
+1142,,3,Mr,Abrahamsson,male,1,alone,20.0,SOTON/O2 3101284,7.925,7.925,M,S
+1143,,1,Mr,Clark,male,2,small,27.0,13508,136.7792,68.3896,C,C
+1144,,3,Mr,Salander,male,1,alone,24.0,7266,9.325,9.325,M,S
+1145,,3,Mr,Wenzel,male,1,alone,32.5,345775,9.5,9.5,M,S
+1146,,3,Mr,MacKay,male,1,alone,24.81636726546906,C.A. 42795,7.55,7.55,M,S
+1147,,3,Mr,Mahon,male,1,alone,24.81636726546906,AQ/4 3130,7.75,7.75,M,Q
+1148,,3,Mr,Niklasson,male,1,alone,28.0,363611,8.05,8.05,M,S
+1149,,2,Miss,Bentham,female,1,alone,19.0,28404,13.0,13.0,M,S
+1150,,3,Mr,Midtsjo,male,1,alone,21.0,345501,7.775,7.775,M,S
+1151,,3,Mr,de Messemaeker,male,2,small,36.5,345572,17.4,8.7,M,S
+1152,,3,Mr,Nilsson,male,1,alone,21.0,350410,7.8542,7.8542,M,S
+1153,,2,Miss,Wells,female,3,small,29.0,29103,23.0,7.666666666666667,M,S
+1154,,3,Miss,Klasen,female,3,small,1.0,350405,12.1833,4.0611,M,S
+1155,,2,Mr,Portaluppi,male,1,alone,30.0,C.A. 34644,12.7375,12.7375,M,C
+1156,,3,Mr,Lyntakoff,male,1,alone,24.81636726546906,349235,7.8958,7.8958,M,S
+1157,,1,Mr,Chisholm,male,1,alone,39.15992957746479,112051,0.0,0.0,M,S
+1158,,3,Mr,Warren,male,1,alone,24.81636726546906,C.A. 49867,7.55,7.55,M,S
+1159,,3,Miss,Howard,female,1,alone,24.81636726546906,A. 2. 39186,8.05,8.05,M,S
+1160,,3,Mr,Pokrnic,male,1,alone,17.0,315095,8.6625,8.6625,M,S
+1161,,1,Mr,McCaffry,male,1,alone,46.0,13050,75.2417,75.2417,C,C
+1162,,3,Mr,Fox,male,1,alone,24.81636726546906,368573,7.75,7.75,M,Q
+1163,,1,Miss,Clark,female,2,small,26.0,13508,136.7792,68.3896,C,C
+1164,,3,Miss,Lennon,female,2,small,24.81636726546906,370371,15.5,7.75,M,Q
+1165,,3,Mr,Saade,male,1,alone,24.81636726546906,2676,7.225,7.225,M,C
+1166,,2,Miss,Bryhl,female,2,small,20.0,236853,26.0,13.0,M,S
+1167,,2,Mr,Parker,male,1,alone,28.0,SC 14888,10.5,10.5,M,S
+1168,,2,Mr,Faunthorpe,male,2,small,40.0,2926,26.0,13.0,M,S
+1169,,2,Mr,Ware,male,2,small,30.0,CA 31352,21.0,10.5,M,S
+1170,,2,Mr,Oxenham,male,1,alone,22.0,W./C. 14260,10.5,10.5,M,S
+1171,,3,Miss,Oreskovic,female,1,alone,23.0,315085,8.6625,8.6625,M,S
+1172,,3,Mr,Peacock,male,3,small,0.75,SOTON/O.Q. 3101315,13.775,4.591666666666667,M,S
+1173,,3,Miss,Fleming,female,1,alone,24.81636726546906,364859,7.75,7.75,M,Q
+1174,,3,Miss,Touma,female,3,small,9.0,2650,15.2458,5.081933333333333,M,C
+1175,,3,Miss,Rosblom,female,3,small,2.0,370129,20.2125,6.7375,M,S
+1176,,3,Mr,Dennis,male,1,alone,36.0,A/5 21175,7.25,7.25,M,S
+1177,,3,Mr,Franklin,male,1,alone,24.81636726546906,SOTON/O.Q. 3101314,7.25,7.25,M,S
+1178,,1,Mr,Snyder,male,2,small,24.0,21228,82.2667,41.13335,B,S
+1179,,3,Mr,Mardirosian,male,1,alone,24.81636726546906,2655,7.2292,7.2292,F,C
+1180,,3,Mr,Ford,male,1,alone,24.81636726546906,A/5 1478,8.05,8.05,M,S
+1181,,1,Mr,Rheims,male,1,alone,39.15992957746479,PC 17607,39.6,39.6,M,S
+1182,,3,Miss,Daly,female,1,alone,30.0,382650,6.95,6.95,M,Q
+1183,,3,Mr,Nasr,male,1,alone,24.81636726546906,2652,7.2292,7.2292,M,C
+1184,,1,Mr,Dodge,male,3,small,53.0,33638,81.8583,27.2861,A,S
+1185,,3,Mr,Wittevrongel,male,1,alone,36.0,345771,9.5,9.5,M,S
+1186,,3,Mr,Angheloff,male,1,alone,26.0,349202,7.8958,7.8958,M,S
+1187,,2,Miss,Laroche,female,4,small,1.0,SC/Paris 2123,41.5792,10.3948,M,C
+1188,,3,Mr,Samaan,male,3,small,24.81636726546906,2662,21.6792,7.226400000000001,M,C
+1189,,1,Mr,Loring,male,1,alone,30.0,113801,45.5,45.5,M,S
+1190,,3,Mr,Johansson,male,1,alone,29.0,347467,7.8542,7.8542,M,S
+1191,,3,Mr,Olsson,male,1,alone,32.0,347079,7.775,7.775,M,S
+1192,,2,Mr,Malachard,male,1,alone,29.506704980842912,237735,15.0458,15.0458,D,C
+1193,,2,Mr,Phillips,male,2,small,43.0,S.O./P.P. 2,21.0,10.5,M,S
+1194,,3,Mr,Pokrnic,male,1,alone,24.0,315092,8.6625,8.6625,M,S
+1195,,3,Miss,McCarthy,female,1,alone,24.81636726546906,383123,7.75,7.75,M,Q
+1196,,1,Miss,Crosby,female,3,small,64.0,112901,26.55,8.85,B,S
+1197,,1,Mr,Allison,male,4,small,30.0,113781,151.55,37.8875,C,S
+1198,,3,Mr,Aks,male,2,small,0.83,392091,9.35,4.675,M,S
+1199,,1,Mr,Hays,male,3,small,55.0,12749,93.5,31.166666666666668,B,S
+1200,,3,Miss,Hansen,female,2,small,45.0,350026,14.1083,7.05415,M,S
+1201,,3,Mr,Cacic,male,1,alone,18.0,315091,8.6625,8.6625,M,S
+1202,,3,Mr,Vartanian,male,1,alone,22.0,2658,7.225,7.225,M,C
+1203,,3,Mr,Sadowitz,male,1,alone,24.81636726546906,LP 1588,7.575,7.575,M,S
+1204,,3,Miss,Carr,female,1,alone,37.0,368364,7.75,7.75,M,Q
+1205,,1,Miss,White,female,1,alone,55.0,PC 17760,135.6333,135.6333,C,C
+1206,,3,Miss,Hagardon,female,1,alone,17.0,AQ/3. 30631,7.7333,7.7333,M,Q
+1207,,1,Mr,Spencer,male,2,small,57.0,PC 17569,146.5208,73.2604,B,C
+1208,,2,Mr,Rogers,male,1,alone,19.0,28004,10.5,10.5,M,S
+1209,,3,Mr,Jonsson,male,1,alone,27.0,350408,7.8542,7.8542,M,S
+1210,,2,Mr,Jefferys,male,3,small,22.0,C.A. 31029,31.5,10.5,M,S
+1211,,3,Mr,Andersson,male,1,alone,26.0,347075,7.775,7.775,M,S
+1212,,3,Mr,Krekorian,male,1,alone,25.0,2654,7.2292,7.2292,F,C
+1213,,2,Mr,Nesson,male,1,alone,26.0,244368,13.0,13.0,F,S
+1214,,1,Mr,Rowe,male,1,alone,33.0,113790,26.55,26.55,M,S
+1215,,1,Miss,Kreuchen,female,1,alone,39.0,24160,211.3375,211.3375,M,S
+1216,,3,Mr,Assam,male,1,alone,23.0,SOTON/O.Q. 3101309,7.05,7.05,M,S
+1217,,2,Miss,Becker,female,4,small,12.0,230136,39.0,9.75,F,S
+1218,,1,Mr,Rosenshine,male,1,alone,46.0,PC 17585,79.2,79.2,M,C
+1219,,2,Mr,Clarke,male,2,small,29.0,2003,26.0,13.0,M,S
+1220,,2,Mr,Enander,male,1,alone,21.0,236854,13.0,13.0,M,S
+1221,,2,Miss,Davies,female,3,small,48.0,C.A. 33112,36.75,12.25,M,S
+1222,,1,Mr,Dulles,male,1,alone,39.0,PC 17580,29.7,29.7,A,C
+1223,,3,Mr,Thomas,male,1,alone,24.81636726546906,2684,7.225,7.225,M,C
+1224,,3,Miss,Nakid,female,3,small,19.0,2653,15.7417,5.247233333333333,M,C
+1225,,3,Mr,Cor,male,1,alone,27.0,349229,7.8958,7.8958,M,S
+1226,,1,Mr,Maguire,male,1,alone,30.0,110469,26.0,26.0,C,S
+1227,,2,Mr,de Brito,male,1,alone,32.0,244360,13.0,13.0,M,S
+1228,,3,Mr,Elias,male,3,small,39.0,2675,7.2292,2.409733333333333,M,C
+1229,,2,Mr,Denbury,male,1,alone,25.0,C.A. 31029,31.5,31.5,M,S
+1230,,3,Mr,Betros,male,1,alone,24.81636726546906,2622,7.2292,7.2292,M,C
+1231,,2,Mr,Fillbrook,male,1,alone,18.0,C.A. 15185,10.5,10.5,M,S
+1232,,3,Mr,Lundstrom,male,1,alone,32.0,350403,7.5792,7.5792,M,S
+1233,,3,Mr,Sage,male,11,large,24.81636726546906,CA. 2343,69.55,6.322727272727272,M,S
+1234,,1,Miss,Cardeza,female,2,small,58.0,PC 17755,512.3292,256.1646,B,C
+1235,,3,Mr,van Billiard,male,3,small,24.81636726546906,A/5. 851,14.5,4.833333333333333,M,S
+1236,,3,Miss,Abelseth,female,1,alone,16.0,348125,7.65,7.65,M,S
+1237,,2,Mr,Botsford,male,1,alone,26.0,237670,13.0,13.0,M,S
+1238,,3,Miss,Whabee,female,1,alone,38.0,2688,7.2292,7.2292,M,C
+1239,,2,Mr,Giles,male,1,alone,24.0,248726,13.5,13.5,M,S
+1240,,2,Miss,Walcroft,female,1,alone,31.0,F.C.C. 13528,21.0,21.0,M,S
+1241,,1,Miss,Greenfield,female,2,small,45.0,PC 17759,63.3583,31.67915,D,C
+1242,,2,Mr,Stokes,male,1,alone,25.0,F.C.C. 13540,10.5,10.5,M,S
+1243,,2,Mr,Dibden,male,1,alone,18.0,S.O.C. 14879,73.5,73.5,M,S
+1244,,2,Mr,Herman,male,4,small,49.0,220845,65.0,16.25,M,S
+1245,,3,Miss,Dean,female,4,small,0.17,C.A. 2315,20.575,5.14375,M,S
+1246,,1,Mr,Julian,male,1,alone,50.0,113044,26.0,26.0,E,S
+1247,,1,Miss,Brown,female,3,small,59.0,11769,51.4792,17.15973333333333,C,S
+1248,,3,Mr,Lockyer,male,1,alone,24.81636726546906,1222,7.8792,7.8792,M,S
+1249,,3,Mr,O'Keefe,male,1,alone,24.81636726546906,368402,7.75,7.75,M,Q
+1250,,3,Miss,Lindell,female,2,small,30.0,349910,15.55,7.775,M,S
+1251,,3,Mr,Sage,male,11,large,14.5,CA. 2343,69.55,6.322727272727272,M,S
+1252,,2,Miss,Mallet,female,3,small,24.0,S.C./PARIS 2079,37.0042,12.334733333333332,M,C
+1253,,2,Miss,Ware,female,1,alone,31.0,CA 31352,21.0,21.0,M,S
+1254,,3,Mr,Strilic,male,1,alone,27.0,315083,8.6625,8.6625,M,S
+1255,,1,Miss,Harder,female,2,small,25.0,11765,55.4417,27.72085,E,C
+1256,,3,Miss,Sage,female,11,large,24.81636726546906,CA. 2343,69.55,6.322727272727272,M,S
+1257,,3,Mr,Caram,male,2,small,24.81636726546906,2689,14.4583,7.22915,M,C
+1258,,3,Miss,Riihivouri,female,1,alone,22.0,3101295,39.6875,39.6875,M,S
+1259,,1,Miss,Gibson,female,2,small,45.0,112378,59.4,29.7,M,C
+1260,,2,Mr,Pallas y Castello,male,1,alone,29.0,SC/PARIS 2147,13.8583,13.8583,M,C
+1261,,2,Mr,Giles,male,2,small,21.0,28133,11.5,5.75,M,S
+1262,,1,Miss,Wilson,female,1,alone,31.0,16966,134.5,134.5,E,C
+1263,,1,Mr,Ismay,male,1,alone,49.0,112058,0.0,0.0,B,S
+1264,,2,Mr,Harbeck,male,1,alone,44.0,248746,13.0,13.0,M,S
+1265,,1,Miss,Dodge,female,3,small,54.0,33638,81.8583,27.2861,A,S
+1266,,1,Miss,Bowen,female,1,alone,45.0,PC 17608,262.375,262.375,M,C
+1267,,3,Miss,Kink,female,3,small,22.0,315152,8.6625,2.8874999999999997,M,S
+1268,,2,Mr,Cotterill,male,1,alone,21.0,29107,11.5,11.5,M,S
+1269,,1,Mr,Hipkins,male,1,alone,55.0,680,50.0,50.0,C,S
+1270,,3,Mr,Asplund,male,7,large,5.0,347077,31.3875,4.483928571428572,M,S
+1271,,3,Mr,O'Connor,male,1,alone,24.81636726546906,366713,7.75,7.75,M,Q
+1272,,3,Mr,Foley,male,1,alone,26.0,330910,7.8792,7.8792,M,Q
+1273,,3,Miss,Risien,female,1,alone,24.81636726546906,364498,14.5,14.5,M,S
+1274,,3,Miss,McNamee,female,2,small,19.0,376566,16.1,8.05,M,S
+1275,,2,Mr,Wheeler,male,1,alone,29.506704980842912,SC/PARIS 2159,12.875,12.875,M,S
+1276,,2,Miss,Herman,female,4,small,24.0,220845,65.0,16.25,M,S
+1277,,3,Mr,Aronsson,male,1,alone,24.0,349911,7.775,7.775,M,S
+1278,,2,Mr,Ashby,male,1,alone,57.0,244346,13.0,13.0,M,S
+1279,,3,Mr,Canavan,male,1,alone,21.0,364858,7.75,7.75,M,Q
+1280,,3,Mr,Palsson,male,5,large,6.0,349909,21.075,4.215,M,S
+1281,,1,Mr,Payne,male,1,alone,23.0,12749,93.5,93.5,B,S
+1282,,1,Miss,Lines,female,2,small,51.0,PC 17592,39.4,19.7,D,S
+1283,,3,Mr,Abbott,male,3,small,13.0,C.A. 2673,20.25,6.75,M,S
+1284,,2,Mr,Gilbert,male,1,alone,47.0,C.A. 30769,10.5,10.5,M,S
+1285,,3,Mr,Kink-Heilmann,male,5,large,29.0,315153,22.025,4.404999999999999,M,S
+1286,,1,Miss,Smith,female,2,small,18.0,13695,60.0,30.0,C,S
+1287,,3,Mr,Colbert,male,1,alone,24.0,371109,7.25,7.25,M,Q
+1288,,1,Miss,Frolicher-Stehli,female,3,small,48.0,13567,79.2,26.400000000000002,B,C
+1289,,3,Mr,Larsson-Rondberg,male,1,alone,22.0,347065,7.775,7.775,M,S
+1290,,3,Mr,Conlon,male,1,alone,31.0,21332,7.7333,7.7333,M,Q
+1291,,1,Miss,Bonnell,female,1,alone,30.0,36928,164.8667,164.8667,C,S
+1292,,2,Mr,Gale,male,2,small,38.0,28664,21.0,10.5,M,S
+1293,,1,Miss,Gibson,female,2,small,22.0,112378,59.4,29.7,M,C
+1294,,1,Mr,Carrau,male,1,alone,17.0,113059,47.1,47.1,M,S
+1295,,1,Mr,Frauenthal,male,2,small,43.0,17765,27.7208,13.8604,D,C
+1296,,2,Mr,Nourney,male,1,alone,20.0,SC/PARIS 2166,13.8625,13.8625,D,C
+1297,,2,Mr,Ware,male,2,small,23.0,28666,10.5,5.25,M,S
+1298,,1,Mr,Widener,male,3,small,50.0,113503,211.5,70.5,C,C
+1299,,3,Miss,Riordan,female,1,alone,24.81636726546906,334915,7.7208,7.7208,M,Q
+1300,,3,Miss,Peacock,female,3,small,3.0,SOTON/O.Q. 3101315,13.775,4.591666666666667,M,S
+1301,,3,Miss,Naughton,female,1,alone,24.81636726546906,365237,7.75,7.75,M,Q
+1302,,1,Miss,Minahan,female,2,small,37.0,19928,90.0,45.0,C,Q
+1303,,3,Miss,Henriksson,female,1,alone,28.0,347086,7.775,7.775,M,S
+1304,,3,Mr,Spector,male,1,alone,24.81636726546906,A.5. 3236,8.05,8.05,M,S
+1305,,1,Miss,Oliva y Ocana,female,1,alone,39.0,PC 17758,108.9,108.9,C,C
+1306,,3,Mr,Saether,male,1,alone,38.5,SOTON/O.Q. 3101262,7.25,7.25,M,S
+1307,,3,Mr,Ware,male,1,alone,24.81636726546906,359309,8.05,8.05,M,S
+1308,,3,Mr,Peter,male,3,small,24.81636726546906,2668,22.3583,7.452766666666666,M,C
