@@ -20,11 +20,10 @@ data analysis.
 
 ## Files and Structure
 
-- `Data Cleaning(Titanic Dataset).ipynb`: Jupyter Notebook containing the code for Data cleaning.
-- `EDA(Titanic Dataset).ipynb`          : Jupyter Notebook containing the code for Exploratory Data Analysis(EDA).
-- `titanic.csv`: The original Titanic dataset used for analysis.
-- `Titanic_Cleaned.csv`: The  Titanic dataset after cleaning.
-- `final_titanic_dataset_with_eda.csv`: The Titanic dataset after Exploratory Data Analysis(EDA).
+- `EDA on (Titanic Dataset).ipynb`          : Jupyter Notebook containing the code for Exploratory Data Analysis(EDA).
+- `train.csv` and `test,csv`: The original Titanic dataset used for analysis.
+- `TITANIC DATASET_updated.csv`: The  Titanic dataset after concating.
+- `TITANIC_EDA_DATASET.csv`: The Titanic dataset after Exploratory Data Analysis(EDA).
 - `README.md`: Documentation which you are reading right now, that providing an overview of the analysis, instructions for replication, and acknowledgments.
 
 ## Usage
