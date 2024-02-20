@@ -30,7 +30,7 @@ data analysis.
 
 To replicate the analysis:
 
-1. Clone the repository: `git clone https://github.com/your-username/titanic-analysis.git`
+1. Clone the repository: `git clone https://github.com/mayurdalvi3003/PRODIGY_DS_Task2.git`
 2. Install the required libraries: `pip install -r requirements.txt`
 3. Open and run the Jupyter Notebooks in the specified order (`data_cleaning.ipynb` and then `eda.ipynb`).
 
